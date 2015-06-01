@@ -1,0 +1,26 @@
+{
+  "name": "soh",
+  "version": "0.0.1",
+  "authors": [
+    "davidemontorio <funky.davide@gmail.com>"
+  ],
+  "description": "Social Opera House",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "dependencies": {
+    "bootstrap": "~3",
+    "modernizr": "~2",
+    "jquery": "~1",
+    "jquery-easing-original":  ">1"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
