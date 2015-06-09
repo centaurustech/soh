@@ -1,7 +1,9 @@
 $(document).ready(function () {
     // === Cover Image
     var navPosition = $('.navbar').offset().top;
+    console.log(navPosition);
     $(window).scroll(function () {
+        console.log($(window).scrollTop());
         if ($(window).scrollTop() >= navPosition) {
             $('.navbar').addClass("navbar-fixed-top");
         } else {
