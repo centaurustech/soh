@@ -23,6 +23,9 @@ body {
   font-family: "Nexa Bold", serif;
   font-size: 1.5em; }
 
+.text-paper {
+  font-size: 0.85em; }
+
 .block-image h1 {
   text-align: center; }
 
@@ -35,6 +38,9 @@ body {
 
 .white-text {
   color: #fff; }
+
+.pink-text {
+  color: #e794ae; }
 
 @media (min-width: 767px) {
   .navbar {
@@ -83,6 +89,11 @@ body {
   text-align: center; }
 
 #filosofia {
+  height: 100%;
+  padding-top: 150px;
+  text-align: center; }
+
+#stagione {
   height: 100%;
   padding-top: 150px;
   text-align: center; }
@@ -158,8 +169,44 @@ body {
     background-image: url("../images/04teatro2.jpg");
     background-position: center bottom;
     background-repeat: no-repeat;
-    height: 100%; }
-    #filosofia .con-sfondo article {
-      width: 100%; }
+    background-size: cover;
+    height: 100%;
+    margin-top: 40px; }
+    #filosofia .con-sfondo .text-paper {
+      margin: 40px; }
+      #filosofia .con-sfondo .text-paper article {
+        margin-left: 80px;
+        width: 100%; }
+
+#stagione {
+  text-align: center; }
+  #stagione article {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1.125em; }
+    #stagione article h1 {
+      font-family: "Nexa Bold", serif;
+      font-size: 1.5em; }
+  #stagione .calendar {
+    margin-top: 150px;
+    margin-bottom: 40px; }
+
+#the_banker {
+  text-align: center; }
+  #the_banker article {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1.125em; }
+    #the_banker article h1 {
+      font-family: "Nexa Bold", serif;
+      font-size: 1.5em; }
+  #the_banker .banker-bg {
+    background-attachment: scroll;
+    background-image: url("../images/06thebanker.jpg");
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    margin-top: 40px; }
 
 /*# sourceMappingURL=style.css.map */
