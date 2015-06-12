@@ -4,7 +4,7 @@
   "sources": [
     "_reset.sass"
   ],
-  "sourcesContent": [],
-  "mappings": ";AAAA,AAAM;EACJ,AAAO;EACP,AAAQ;EACR,AAAY",
-  "names": []
+  "names": [],
+  "mappings": ";AAAA,MAAM;EACJ,OAAO;EACP,QAAQ;EACR,YAAY",
+  "sourceRoot": ""
 }

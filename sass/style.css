@@ -1,4 +1,4 @@
-/* line 1, /Users/mcataneo/Sites/soh/sass/_reset.sass */
+/* line 1, /Mick/WORKS/soh/sass/reset */
 body, html {
   width: 100%;
   height: 100%;
@@ -18,145 +18,152 @@ body, html {
   font-weight: normal;
   text-rendering: optimizeLegibility; }
 
-/* line 15, /Users/mcataneo/Sites/soh/sass/_fonts.sass */
+/* line 15, /Mick/WORKS/soh/sass/fonts */
 body {
   font-family: 'Nexa Light', serif;
   font-size: 16px; }
 
-/* line 19, /Users/mcataneo/Sites/soh/sass/_fonts.sass */
+/* line 19, /Mick/WORKS/soh/sass/fonts */
 .bold {
   font-family: 'Nexa Bold', serif;
   font-size: 1.5em; }
 
-/* line 23, /Users/mcataneo/Sites/soh/sass/_fonts.sass */
+/* line 23, /Mick/WORKS/soh/sass/fonts */
 .text-paper {
   font-size: 0.85em; }
 
-/* line 2, /Users/mcataneo/Sites/soh/sass/_extends.sass */
+/* line 2, /Mick/WORKS/soh/sass/extends */
 .block-image h1 {
   text-align: center; }
 
-/* line 5, /Users/mcataneo/Sites/soh/sass/_extends.sass */
+/* line 5, /Mick/WORKS/soh/sass/extends */
 .bold {
   font-family: 'Nexa Bold', serif;
   font-size: large; }
 
-/* line 1, /Users/mcataneo/Sites/soh/sass/_variables.sass */
+/* line 1, /Mick/WORKS/soh/sass/variables */
 .orange {
   background-color: #ef9f64; }
 
-/* line 4, /Users/mcataneo/Sites/soh/sass/_variables.sass */
+/* line 4, /Mick/WORKS/soh/sass/variables */
 .white-text {
   color: #fff; }
 
-/* line 7, /Users/mcataneo/Sites/soh/sass/_variables.sass */
+/* line 7, /Mick/WORKS/soh/sass/variables */
 .pink-text {
   color: #e794ae; }
 
 @media (min-width: 767px) {
-  /* line 2, /Users/mcataneo/Sites/soh/sass/_navbar.sass */
+  /* line 2, /Mick/WORKS/soh/sass/navbar */
   .navbar {
-    -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
-    -moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
-    transition: background .5s ease-in-out, padding .5s ease-in-out; }
-    /* line 6, /Users/mcataneo/Sites/soh/sass/_navbar.sass */
+    -webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+    -moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+    transition: background 0.5s ease-in-out, padding 0.5s ease-in-out; }
+    /* line 6, /Mick/WORKS/soh/sass/navbar */
     .navbar .navbar-nav {
       float: right;
       margin-top: 10px; }
-  /* line 9, /Users/mcataneo/Sites/soh/sass/_navbar.sass */
+
+  /* line 9, /Mick/WORKS/soh/sass/navbar */
   .navbar.navbar-inverse {
     background-color: #F5F5F5 !important;
     border: none; }
-  /* line 12, /Users/mcataneo/Sites/soh/sass/_navbar.sass */
-  .top-nav-collapse {
-    padding: 0; } }
 
-/* line 17, /Users/mcataneo/Sites/soh/sass/_navbar.sass */
+  /* line 12, /Mick/WORKS/soh/sass/navbar */
+  .top-nav-collapse {
+    padding: 0; }
+ }
+
+/* line 17, /Mick/WORKS/soh/sass/navbar */
 .navbar figure.logo img {
   width: 80px;
   opacity: 50%; }
-/* line 21, /Users/mcataneo/Sites/soh/sass/_navbar.sass */
+/* line 21, /Mick/WORKS/soh/sass/navbar */
 .navbar ul.nav li a {
   padding: 25px;
   background-position: center top;
   background-repeat: no-repeat;
   background-size: 50px 50px; }
-/* line 26, /Users/mcataneo/Sites/soh/sass/_navbar.sass */
+/* line 26, /Mick/WORKS/soh/sass/navbar */
 .navbar .menu-top {
   background-image: url(../images/menu/.png); }
-/* line 28, /Users/mcataneo/Sites/soh/sass/_navbar.sass */
+/* line 28, /Mick/WORKS/soh/sass/navbar */
 .navbar .menu-teatro {
   background-image: url(../images/menu/teatro.png); }
-/* line 30, /Users/mcataneo/Sites/soh/sass/_navbar.sass */
+/* line 30, /Mick/WORKS/soh/sass/navbar */
 .navbar .menu-filosofia {
   background-image: url(../images/menu/cosa-offriamo.png); }
-/* line 32, /Users/mcataneo/Sites/soh/sass/_navbar.sass */
+/* line 32, /Mick/WORKS/soh/sass/navbar */
 .navbar .menu-opera {
   background-image: url(../images/menu/la-stagione.png); }
-/* line 34, /Users/mcataneo/Sites/soh/sass/_navbar.sass */
+/* line 34, /Mick/WORKS/soh/sass/navbar */
 .navbar .menu-banker {
   background-image: url(../images/menu/the-banker.png); }
-/* line 36, /Users/mcataneo/Sites/soh/sass/_navbar.sass */
+/* line 36, /Mick/WORKS/soh/sass/navbar */
 .navbar .menu-crowd {
   background-image: url(../images/menu/sostieni-teatro.png); }
-/* line 38, /Users/mcataneo/Sites/soh/sass/_navbar.sass */
+/* line 38, /Mick/WORKS/soh/sass/navbar */
 .navbar .menu-partners {
   background-image: url(../images/menu/chi-siamo.png); }
-/* line 40, /Users/mcataneo/Sites/soh/sass/_navbar.sass */
+/* line 40, /Mick/WORKS/soh/sass/navbar */
 .navbar .menu-press {
   background-image: url(../images/menu/stampa.png); }
-/* line 42, /Users/mcataneo/Sites/soh/sass/_navbar.sass */
+/* line 42, /Mick/WORKS/soh/sass/navbar */
 .navbar .menu-contatti {
   background-image: url(../images/menu/contatti.png); }
 
-/* line 1, /Users/mcataneo/Sites/soh/sass/_base.sass */
+/* line 1, /Mick/WORKS/soh/sass/base */
 #teatro {
   padding-top: 150px;
   text-align: center; }
 
-/* line 5, /Users/mcataneo/Sites/soh/sass/_base.sass */
+/* line 5, /Mick/WORKS/soh/sass/base */
 #filosofia {
   height: 100%;
   padding-top: 150px;
   text-align: center; }
 
-/* line 10, /Users/mcataneo/Sites/soh/sass/_base.sass */
+/* line 10, /Mick/WORKS/soh/sass/base */
 #stagione {
   height: 100%;
-  padding-top: 150px;
   text-align: center; }
 
-/* line 15, /Users/mcataneo/Sites/soh/sass/_base.sass */
+/* line 14, /Mick/WORKS/soh/sass/base */
 #the_banker {
   height: 100%;
-  padding-top: 150px;
   text-align: center; }
 
-/* line 20, /Users/mcataneo/Sites/soh/sass/_base.sass */
+/* line 18, /Mick/WORKS/soh/sass/base */
 #contatti {
   height: 100%;
   padding-top: 150px;
   text-align: center; }
 
-/* line 25, /Users/mcataneo/Sites/soh/sass/_base.sass */
+/* line 23, /Mick/WORKS/soh/sass/base */
 #press {
   height: 100%;
   padding-top: 150px;
   text-align: center; }
 
-/* line 30, /Users/mcataneo/Sites/soh/sass/_base.sass */
+/* line 28, /Mick/WORKS/soh/sass/base */
 #sostieni {
   height: 100%;
   padding-top: 150px;
   text-align: center; }
 
-/* line 35, /Users/mcataneo/Sites/soh/sass/_base.sass */
+/* line 33, /Mick/WORKS/soh/sass/base */
+#sostieni2 {
+  height: 100%;
+  padding-top: 150px;
+  text-align: center; }
+
+/* line 38, /Mick/WORKS/soh/sass/base */
 #chi_siamo {
   height: 100%;
   padding-top: 150px;
   text-align: center; }
 
-/* line 1, /Users/mcataneo/Sites/soh/sass/_cover.sass */
+/* line 1, /Mick/WORKS/soh/sass/cover */
 #cover {
   text-align: center;
   color: #fff;
@@ -169,44 +176,44 @@ body {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover; }
-  /* line 13, /Users/mcataneo/Sites/soh/sass/_cover.sass */
+  /* line 13, /Mick/WORKS/soh/sass/cover */
   #cover h1 {
     font-size: 4em;
     text-align: left;
     font-weight: 100; }
-  /* line 17, /Users/mcataneo/Sites/soh/sass/_cover.sass */
+  /* line 17, /Mick/WORKS/soh/sass/cover */
   #cover figure img {
     float: left;
     width: 130px;
     margin: 0px !important;
     padding: 0px !important; }
 
-/* line 1, /Users/mcataneo/Sites/soh/sass/_teatro.sass */
+/* line 1, /Mick/WORKS/soh/sass/teatro */
 #teatro {
   text-align: center; }
-  /* line 3, /Users/mcataneo/Sites/soh/sass/_teatro.sass */
+  /* line 3, /Mick/WORKS/soh/sass/teatro */
   #teatro article {
     width: 50%;
     margin: 0 auto;
     font-size: 1.125em; }
-    /* line 7, /Users/mcataneo/Sites/soh/sass/_teatro.sass */
+    /* line 7, /Mick/WORKS/soh/sass/teatro */
     #teatro article h1 {
       font-family: 'Nexa Bold', serif;
       font-size: 1.5em; }
 
-/* line 1, /Users/mcataneo/Sites/soh/sass/_filosofia.sass */
+/* line 1, /Mick/WORKS/soh/sass/filosofia */
 #filosofia {
   text-align: center; }
-  /* line 3, /Users/mcataneo/Sites/soh/sass/_filosofia.sass */
+  /* line 3, /Mick/WORKS/soh/sass/filosofia */
   #filosofia article {
     width: 50%;
     margin: 0 auto;
     font-size: 1.125em; }
-    /* line 7, /Users/mcataneo/Sites/soh/sass/_filosofia.sass */
+    /* line 7, /Mick/WORKS/soh/sass/filosofia */
     #filosofia article h1 {
       font-family: 'Nexa Bold', serif;
       font-size: 1.5em; }
-  /* line 10, /Users/mcataneo/Sites/soh/sass/_filosofia.sass */
+  /* line 10, /Mick/WORKS/soh/sass/filosofia */
   #filosofia .con-sfondo {
     background-attachment: scroll;
     background-image: url('../images/04teatro2.jpg');
@@ -215,51 +222,127 @@ body {
     background-size: cover;
     height: 100%;
     margin-top: 40px; }
-    /* line 18, /Users/mcataneo/Sites/soh/sass/_filosofia.sass */
+    /* line 18, /Mick/WORKS/soh/sass/filosofia */
     #filosofia .con-sfondo .text-paper {
       margin: 40px; }
-      /* line 20, /Users/mcataneo/Sites/soh/sass/_filosofia.sass */
+      /* line 20, /Mick/WORKS/soh/sass/filosofia */
       #filosofia .con-sfondo .text-paper article {
         margin-left: 80px;
         width: 100%; }
 
-/* line 1, /Users/mcataneo/Sites/soh/sass/_stagione.sass */
+/* line 1, /Mick/WORKS/soh/sass/stagione */
 #stagione {
   text-align: center; }
-  /* line 3, /Users/mcataneo/Sites/soh/sass/_stagione.sass */
+  /* line 3, /Mick/WORKS/soh/sass/stagione */
   #stagione article {
     width: 50%;
     margin: 0 auto;
     font-size: 1.125em; }
-    /* line 7, /Users/mcataneo/Sites/soh/sass/_stagione.sass */
+    /* line 7, /Mick/WORKS/soh/sass/stagione */
     #stagione article h1 {
       font-family: 'Nexa Bold', serif;
       font-size: 1.5em; }
-  /* line 10, /Users/mcataneo/Sites/soh/sass/_stagione.sass */
+  /* line 10, /Mick/WORKS/soh/sass/stagione */
   #stagione .calendar {
-    margin-top: 150px;
     margin-bottom: 40px; }
 
-/* line 1, /Users/mcataneo/Sites/soh/sass/_thebanker.sass */
+/* line 1, /Mick/WORKS/soh/sass/thebanker */
 #the_banker {
   text-align: center; }
-  /* line 3, /Users/mcataneo/Sites/soh/sass/_thebanker.sass */
-  #the_banker article {
-    width: 50%;
-    margin: 0 auto;
-    font-size: 1.125em; }
-    /* line 7, /Users/mcataneo/Sites/soh/sass/_thebanker.sass */
-    #the_banker article h1 {
-      font-family: 'Nexa Bold', serif;
-      font-size: 1.5em; }
-  /* line 10, /Users/mcataneo/Sites/soh/sass/_thebanker.sass */
+  /* line 3, /Mick/WORKS/soh/sass/thebanker */
+  #the_banker h1 {
+    font-size: 2.25em;
+    color: white; }
+  /* line 6, /Mick/WORKS/soh/sass/thebanker */
+  #the_banker h2 {
+    font-size: 1.25em;
+    color: white;
+    margin-top: 10px; }
+  /* line 10, /Mick/WORKS/soh/sass/thebanker */
   #the_banker .banker-bg {
     background-attachment: scroll;
     background-image: url('../images/06thebanker.jpg');
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
-    height: auto;
-    margin-top: 40px; }
+    height: 100%;
+    margin-top: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px; }
+
+/* line 1, /Mick/WORKS/soh/sass/sostieni */
+#sostieni {
+  text-align: center;
+  background-color: #f1f0f0;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc; }
+  /* line 6, /Mick/WORKS/soh/sass/sostieni */
+  #sostieni h1 {
+    font-size: 2.25em; }
+  /* line 8, /Mick/WORKS/soh/sass/sostieni */
+  #sostieni article {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1.125em; }
+    /* line 12, /Mick/WORKS/soh/sass/sostieni */
+    #sostieni article h1 {
+      font-family: 'Nexa Bold', serif;
+      font-size: 1.5em; }
+    /* line 15, /Mick/WORKS/soh/sass/sostieni */
+    #sostieni article .thumb-video {
+      width: 70%;
+      height: 70%; }
+
+/* line 1, /Mick/WORKS/soh/sass/sostieni2 */
+#sostieni2 {
+  text-align: center; }
+  /* line 3, /Mick/WORKS/soh/sass/sostieni2 */
+  #sostieni2 article {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1.125em; }
+    /* line 7, /Mick/WORKS/soh/sass/sostieni2 */
+    #sostieni2 article h1 {
+      font-family: 'Nexa Bold', serif;
+      font-size: 1.5em; }
+    /* line 10, /Mick/WORKS/soh/sass/sostieni2 */
+    #sostieni2 article .btn-primary {
+      border: 5px solid black;
+      background-color: white;
+      color: black;
+      font-size: 1.125em;
+      font-family: 'Nexa Bold', serif;
+      margin-top: 30px;
+      padding: 15px; }
+    /* line 18, /Mick/WORKS/soh/sass/sostieni2 */
+    #sostieni2 article a:hover {
+      border: 5px solid black;
+      background-color: black;
+      color: white;
+      font-size: 1.125em;
+      font-family: 'Nexa Bold', serif;
+      margin-top: 30px;
+      padding: 15px; }
+
+/* line 1, /Mick/WORKS/soh/sass/chisiamo */
+#sostieni {
+  text-align: center;
+  background-color: black; }
+  /* line 4, /Mick/WORKS/soh/sass/chisiamo */
+  #sostieni h1 {
+    font-size: 2.25em; }
+  /* line 6, /Mick/WORKS/soh/sass/chisiamo */
+  #sostieni article {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1.125em; }
+    /* line 10, /Mick/WORKS/soh/sass/chisiamo */
+    #sostieni article h1 {
+      font-family: 'Nexa Bold', serif;
+      font-size: 1.5em; }
+    /* line 13, /Mick/WORKS/soh/sass/chisiamo */
+    #sostieni article .thumb-video {
+      width: 70%;
+      height: 70%; }
 
 /*# sourceMappingURL=style.css.map */

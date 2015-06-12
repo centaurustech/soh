@@ -95,12 +95,10 @@ body {
 
 #stagione {
   height: 100%;
-  padding-top: 150px;
   text-align: center; }
 
 #the_banker {
   height: 100%;
-  padding-top: 150px;
   text-align: center; }
 
 #contatti {
@@ -114,6 +112,11 @@ body {
   text-align: center; }
 
 #sostieni {
+  height: 100%;
+  padding-top: 150px;
+  text-align: center; }
+
+#sostieni2 {
   height: 100%;
   padding-top: 150px;
   text-align: center; }
@@ -188,25 +191,86 @@ body {
       font-family: "Nexa Bold", serif;
       font-size: 1.5em; }
   #stagione .calendar {
-    margin-top: 100px;
     margin-bottom: 40px; }
 
 #the_banker {
   text-align: center; }
-  #the_banker article {
-    width: 50%;
-    margin: 0 auto;
-    font-size: 1.125em; }
-    #the_banker article h1 {
-      font-family: "Nexa Bold", serif;
-      font-size: 1.5em; }
+  #the_banker h1 {
+    font-size: 2.25em;
+    color: white; }
+  #the_banker h2 {
+    font-size: 1.25em;
+    color: white;
+    margin-top: 10px; }
   #the_banker .banker-bg {
     background-attachment: scroll;
     background-image: url("../images/06thebanker.jpg");
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
-    height: auto;
-    margin-top: 40px; }
+    height: 100%;
+    margin-top: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px; }
+
+#sostieni {
+  text-align: center;
+  background-color: #f1f0f0;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc; }
+  #sostieni h1 {
+    font-size: 2.25em; }
+  #sostieni article {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1.125em; }
+    #sostieni article h1 {
+      font-family: "Nexa Bold", serif;
+      font-size: 1.5em; }
+    #sostieni article .thumb-video {
+      width: 70%;
+      height: 70%; }
+
+#sostieni2 {
+  text-align: center; }
+  #sostieni2 article {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1.125em; }
+    #sostieni2 article h1 {
+      font-family: "Nexa Bold", serif;
+      font-size: 1.5em; }
+    #sostieni2 article .btn-primary {
+      border: 5px solid black;
+      background-color: white;
+      color: black;
+      font-size: 1.125em;
+      font-family: "Nexa Bold", serif;
+      margin-top: 30px;
+      padding: 15px; }
+    #sostieni2 article a:hover {
+      border: 5px solid black;
+      background-color: black;
+      color: white;
+      font-size: 1.125em;
+      font-family: "Nexa Bold", serif;
+      margin-top: 30px;
+      padding: 15px; }
+
+#sostieni {
+  text-align: center;
+  background-color: black; }
+  #sostieni h1 {
+    font-size: 2.25em; }
+  #sostieni article {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1.125em; }
+    #sostieni article h1 {
+      font-family: "Nexa Bold", serif;
+      font-size: 1.5em; }
+    #sostieni article .thumb-video {
+      width: 70%;
+      height: 70%; }
 
 /*# sourceMappingURL=style.css.map */
