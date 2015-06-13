@@ -26,6 +26,24 @@ body {
 .text-paper {
   font-size: 0.85em; }
 
+.btn-primary {
+  border: 5px solid black;
+  background-color: white;
+  color: black;
+  font-size: 1.125em;
+  font-family: "Nexa Bold", serif;
+  margin-top: 30px;
+  padding: 15px; }
+
+.btn-primary:hover {
+  border: 5px solid black;
+  background-color: black;
+  color: white;
+  font-size: 1.125em;
+  font-family: "Nexa Bold", serif;
+  margin-top: 30px;
+  padding: 15px; }
+
 .block-image h1 {
   text-align: center; }
 
@@ -41,6 +59,9 @@ body {
 
 .pink-text {
   color: #e794ae; }
+
+.violet {
+  background-color: #8086a0; }
 
 @media (min-width: 767px) {
   .navbar {
@@ -85,12 +106,12 @@ body {
   background-image: url(../images/menu/contatti.png); }
 
 #teatro {
-  padding-top: 150px;
+  padding-top: 100px;
   text-align: center; }
 
 #filosofia {
   height: 100%;
-  padding-top: 150px;
+  padding-top: 100px;
   text-align: center; }
 
 #stagione {
@@ -103,27 +124,32 @@ body {
 
 #contatti {
   height: 100%;
-  padding-top: 150px;
+  padding-top: 100px;
   text-align: center; }
 
 #press {
   height: 100%;
-  padding-top: 150px;
+  padding-top: 100px;
   text-align: center; }
 
 #sostieni {
   height: 100%;
-  padding-top: 150px;
+  padding-top: 100px;
   text-align: center; }
 
 #sostieni2 {
   height: 100%;
-  padding-top: 150px;
+  padding-top: 100px;
   text-align: center; }
 
 #chi_siamo {
   height: 100%;
-  padding-top: 150px;
+  padding-top: 100px;
+  text-align: center; }
+
+#press {
+  height: 100%;
+  padding-top: 100px;
   text-align: center; }
 
 #cover {
@@ -153,7 +179,7 @@ body {
   #teatro article {
     width: 50%;
     margin: 0 auto;
-    font-size: 1.125em; }
+    font-size: 1em; }
     #teatro article h1 {
       font-family: "Nexa Bold", serif;
       font-size: 1.5em; }
@@ -163,7 +189,7 @@ body {
   #filosofia article {
     width: 50%;
     margin: 0 auto;
-    font-size: 1.125em; }
+    font-size: 1em; }
     #filosofia article h1 {
       font-family: "Nexa Bold", serif;
       font-size: 1.5em; }
@@ -186,11 +212,12 @@ body {
   #stagione article {
     width: 50%;
     margin: 0 auto;
-    font-size: 1.125em; }
+    font-size: 1em; }
     #stagione article h1 {
       font-family: "Nexa Bold", serif;
       font-size: 1.5em; }
   #stagione .calendar {
+    background-color: #e794ae;
     margin-bottom: 40px; }
 
 #the_banker {
@@ -223,7 +250,7 @@ body {
   #sostieni article {
     width: 50%;
     margin: 0 auto;
-    font-size: 1.125em; }
+    font-size: 1em; }
     #sostieni article h1 {
       font-family: "Nexa Bold", serif;
       font-size: 1.5em; }
@@ -236,41 +263,42 @@ body {
   #sostieni2 article {
     width: 50%;
     margin: 0 auto;
-    font-size: 1.125em; }
+    font-size: 1em; }
     #sostieni2 article h1 {
       font-family: "Nexa Bold", serif;
       font-size: 1.5em; }
-    #sostieni2 article .btn-primary {
-      border: 5px solid black;
-      background-color: white;
-      color: black;
-      font-size: 1.125em;
-      font-family: "Nexa Bold", serif;
-      margin-top: 30px;
-      padding: 15px; }
-    #sostieni2 article a:hover {
-      border: 5px solid black;
-      background-color: black;
-      color: white;
-      font-size: 1.125em;
-      font-family: "Nexa Bold", serif;
-      margin-top: 30px;
-      padding: 15px; }
 
-#sostieni {
+#chi_siamo {
   text-align: center;
-  background-color: black; }
-  #sostieni h1 {
-    font-size: 2.25em; }
-  #sostieni article {
-    width: 50%;
+  background-color: #666; }
+  #chi_siamo h1 {
+    font-size: 2.25em;
+    color: white;
+    margin-bottom: 50px; }
+  #chi_siamo article {
     margin: 0 auto;
     font-size: 1.125em; }
-    #sostieni article h1 {
+    #chi_siamo article h1 {
+      font-family: "Nexa Bold", serif;
+      font-size: 1.15em;
+      color: white;
+      margin-bottom: 50px; }
+
+#press {
+  text-align: center; }
+  #press h1 {
+    font-size: 2.25em;
+    color: white;
+    margin-bottom: 50px; }
+  #press .partner {
+    background-color: white;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px; }
+  #press .press-txt {
+    margin-top: 20px; }
+    #press .press-txt h1 {
       font-family: "Nexa Bold", serif;
       font-size: 1.5em; }
-    #sostieni article .thumb-video {
-      width: 70%;
-      height: 70%; }
 
 /*# sourceMappingURL=style.css.map */
