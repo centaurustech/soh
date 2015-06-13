@@ -26,24 +26,6 @@ body {
 .text-paper {
   font-size: 0.85em; }
 
-.btn-primary {
-  border: 5px solid black;
-  background-color: white;
-  color: black;
-  font-size: 1.125em;
-  font-family: "Nexa Bold", serif;
-  margin-top: 30px;
-  padding: 15px; }
-
-.btn-primary:hover {
-  border: 5px solid black;
-  background-color: black;
-  color: white;
-  font-size: 1.125em;
-  font-family: "Nexa Bold", serif;
-  margin-top: 30px;
-  padding: 15px; }
-
 .block-image h1 {
   text-align: center; }
 
@@ -300,5 +282,23 @@ body {
     #press .press-txt h1 {
       font-family: "Nexa Bold", serif;
       font-size: 1.5em; }
+
+.btn-primary {
+  border: 5px solid black;
+  background-color: white;
+  color: black;
+  font-size: 1.125em;
+  font-family: "Nexa Bold", serif;
+  margin-top: 30px;
+  padding: 15px; }
+
+.btn-primary:hover {
+  border: 5px solid black;
+  background-color: black;
+  color: white;
+  font-size: 1.125em;
+  font-family: "Nexa Bold", serif;
+  margin-top: 30px;
+  padding: 15px; }
 
 /*# sourceMappingURL=style.css.map */
