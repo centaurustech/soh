@@ -349,5 +349,10 @@ html, body {
       font-size: 1.5em; }
     #contatti article .thumb-video {
       margin-bottom: 50px; }
+    #contatti article ul {
+      list-style: none;
+      margin-top: 30px; }
+      #contatti article ul li {
+        display: inline; }
 
 /*# sourceMappingURL=style.css.map */

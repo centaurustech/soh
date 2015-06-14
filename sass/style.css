@@ -427,5 +427,12 @@ html, body {
     /* line 14, /Users/mcataneo/Sites/soh/sass/_contatti.sass */
     #contatti article .thumb-video {
       margin-bottom: 50px; }
+    /* line 16, /Users/mcataneo/Sites/soh/sass/_contatti.sass */
+    #contatti article ul {
+      list-style: none;
+      margin-top: 30px; }
+      /* line 19, /Users/mcataneo/Sites/soh/sass/_contatti.sass */
+      #contatti article ul li {
+        display: inline; }
 
 /*# sourceMappingURL=style.css.map */
