@@ -12,17 +12,27 @@
   .top-nav-collapse
     padding: 0
 
-
 .navbar
-  figure.logo img
-    width: 80px
-    opacity: 50%
+  height: 100px
+  margin: 0px
+  min-height: unset
+  .navbar-header header
+    float: right
+    font-size: 2em
+    margin: 30px 0px 0px 30px
+  figure.logo
+    margin-top: 15px
+    float: left
+    img
+      width: 80px
   ul.nav li
     a
       padding: 25px
       background-position: center top
       background-repeat: no-repeat
       background-size: 50px 50px
+  #navbar
+    height: 70px !important
   .menu-top
     background-image: url(../images/menu/.png)
   .menu-teatro
@@ -41,3 +51,7 @@
     background-image: url(../images/menu/stampa.png)
   .menu-contatti
     background-image: url(../images/menu/contatti.png)
+  #menu-title
+    text-align: right
+    font-weight: bold
+    text-transform: uppercase
