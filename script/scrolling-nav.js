@@ -9,7 +9,7 @@ $(document).ready(function () {
         if (scroll > navPosition) {
             $('.navbar').addClass("navbar-fixed-top");
             $('.section').each(function(i) {
-                console.log(i + '.' + Math.floor($(this).offset().top) + ' - ' + (scroll) + ' d=' + (scroll - Math.floor($(this).offset().top) ));
+//                console.log(i + '.' + Math.floor($(this).offset().top) + ' - ' + (scroll) + ' d=' + (scroll - Math.floor($(this).offset().top) ));
                 if (Math.floor($(this).offset().top) <= scroll+100) {
                     $('#navbar li.active').removeClass('active');
                     $('#navbar ul li').eq(i).addClass('active');
