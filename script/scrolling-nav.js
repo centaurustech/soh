@@ -1,5 +1,5 @@
+var currentItem = {title: 'Il Teatro', color:'orange-text'};
 $(document).ready(function () {
-    var currentItem = {title: 'Il Teatro', color:'orange-text'};
     $('#menu-title').html(currentItem.title).addClass(currentItem.color).hide();
     
     // === Navigation Affix
@@ -12,12 +12,17 @@ $(document).ready(function () {
 //                console.log(i + '.' + Math.floor($(this).offset().top) + ' - ' + (scroll) + ' d=' + (scroll - Math.floor($(this).offset().top) ));
                 if (Math.floor($(this).offset().top) <= scroll+100) {
                     $('#navbar li.active').removeClass('active');
-                    $('#navbar ul li').eq(i).addClass('active');
+                    var activeli        = $('#navbar ul li').eq(i);
+                    currentItem.title   = activeli.find('a').attr('title');
+                    currentItem.color   = activeli.find('a').data('color');
+                    activeli.addClass('active');
+                    $('#menu-title').removeClass().addClass(currentItem.color).html(currentItem.title).show();
                 }
             });
         } else {
             $('.navbar').removeClass("navbar-fixed-top");
             $('#navbar li.active').removeClass('active');
+            $('#menu-title').removeClass().addClass(currentItem.color).html(currentItem.title).hide();
         }
     });
     
@@ -33,7 +38,7 @@ $(document).ready(function () {
             var posi            = $(link).offset();
             currentItem.title   = $(this).attr('title');
             currentItem.color   = $(this).data('color');
-            $('#menu-title').removeClass().addClass(currentItem.color).html(currentItem.title);
+            $('#menu-title').removeClass().addClass(currentItem.color).html(currentItem.title).show();
             $('html, body').animate({scrollTop: posi.top}, 1000, 'easeInOutExpo');
             event.preventDefault();
         },
