@@ -12,6 +12,8 @@
   .top-nav-collapse
     padding: 0
 
+.navbar-inverse .navbar-nav>.active>a
+  background-color: none !important
 .navbar
   height: 100px
   margin: 0px
@@ -33,10 +35,29 @@
       background-size: 50px 50px
   #navbar
     height: 70px !important
-  .menu-top
-    background-image: url(../images/menu/.png)
+    li.active
+      background-color: none !important
+    li.active .menu-teatro
+      background-image: url(../images/menu/over/teatro.png)
+    li.active .menu-filosofia
+      background-image: url(../images/menu/over/cosa-offriamo.png)
+    li.active .menu-opera
+      background-image: url(../images/menu/over/la-stagione.png)
+    li.active .menu-banker
+      background-image: url(../images/menu/over/the-banker.png)
+    li.active .menu-crowd
+      background-image: url(../images/menu/over/sostieni-teatro.png)
+    li.active .menu-partners
+      background-image: url(../images/menu/over/chi-siamo.png)
+    li.active .menu-press
+      background-image: url(../images/menu/over/stampa.png)
+    li.active .menu-contatti
+      background-image: url(../images/menu/over/contatti.png)
+
   .menu-teatro
     background-image: url(../images/menu/teatro.png)
+  .menu-teatro:hover
+    background-image: url(../images/menu/over/teatro.png)
   .menu-filosofia
     background-image: url(../images/menu/cosa-offriamo.png)
   .menu-opera
