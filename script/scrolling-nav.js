@@ -1,20 +1,19 @@
-var currentItem = {title: 'Il Teatro', color:'orange-text'};
+var currentItem = {title: 'Il Teatro', color: 'orange-text'};
 $(document).ready(function () {
     $('#menu-title').html(currentItem.title).addClass(currentItem.color).hide();
-    
+
     // === Navigation Affix
     var navPosition = $('.navbar').offset().top;
     $(window).scroll(function () {
         var scroll = $(window).scrollTop();
-        if (scroll > navPosition) {
+        if (scroll >= navPosition) {
             $('.navbar').addClass("navbar-fixed-top");
-            $('.section').each(function(i) {
-//                console.log(i + '.' + Math.floor($(this).offset().top) + ' - ' + (scroll) + ' d=' + (scroll - Math.floor($(this).offset().top) ));
-                if (Math.floor($(this).offset().top) <= scroll+100) {
+            $('.section').each(function (i) {
+                if (Math.floor($(this).offset().top) <= scroll + 100) {
                     $('#navbar li.active').removeClass('active');
-                    var activeli        = $('#navbar ul li').eq(i);
-                    currentItem.title   = activeli.find('a').attr('title');
-                    currentItem.color   = activeli.find('a').data('color');
+                    var activeli = $('#navbar ul li').eq(i);
+                    currentItem.title = activeli.find('a').attr('title');
+                    currentItem.color = activeli.find('a').data('color');
                     activeli.addClass('active');
                     $('#menu-title').removeClass().addClass(currentItem.color).html(currentItem.title).show();
                 }
@@ -25,46 +24,45 @@ $(document).ready(function () {
             $('#menu-title').removeClass().addClass(currentItem.color).html(currentItem.title).hide();
         }
     });
-    
+
     // === Smooth Scrolling and Custom Menu
-    $('body').on('click', '#scroll-down-link', function(event){
-        $('.menu-teatro').click();
+    $('body').on('click touchstart', '#scroll-down-link', function (event) {
+        var link = $('.menu-teatro');
+        var section = $('#teatro');
+        var posi = section.offset();
+        currentItem.title = link.attr('title');
+        currentItem.color = link.data('color');
+        $('#menu-title').removeClass().addClass(currentItem.color).html(currentItem.title).show();
+        $('html, body').animate({scrollTop: posi.top - 100}, 1000, 'easeInOutExpo');
         event.preventDefault();
     });
-    
+
     $('.navbar .navbar-nav li>a').bind({
         click: function (event) {
-            var link            = $(this).attr('href');
-            var posi            = $(link).offset();
-            currentItem.title   = $(this).attr('title');
-            currentItem.color   = $(this).data('color');
+            var link = $(this).attr('href');
+            var posi = $(link).offset();
+            currentItem.title = $(this).attr('title');
+            currentItem.color = $(this).data('color');
             $('#menu-title').removeClass().addClass(currentItem.color).html(currentItem.title).show();
             $('html, body').animate({scrollTop: posi.top}, 1000, 'easeInOutExpo');
             event.preventDefault();
         },
-        mouseenter: function(){
-            var title   = $(this).attr('title');
-            var color   = $(this).data('color');
+        touchstart: function (event) {
+            var link = $(this).attr('href');
+            var posi = $(link).offset();
+            currentItem.title = $(this).attr('title');
+            currentItem.color = $(this).data('color');
+            $('#menu-title').removeClass().addClass(currentItem.color).html(currentItem.title).show();
+            $('html, body').animate({scrollTop: posi.top}, 1000, 'easeInOutExpo');
+            event.preventDefault();
+        },
+        mouseenter: function () {
+            var title = $(this).attr('title');
+            var color = $(this).data('color');
             $('#menu-title').removeClass().addClass(color).html(title).show();
         },
-        mouseleave: function(){
+        mouseleave: function () {
             $('#menu-title').removeClass().addClass(currentItem.color).html(currentItem.title).hide();
         }
     });
 });
-
-//$(window).scroll(function() {
-//    var windscroll = $(window).scrollTop();
-//    if (windscroll >= 100){
-//        $('.wrapper section').each(function(i) {
-//            if ($(this).position().top <= windscroll - 100) {
-//                $('nav a.active').removeClass('active');
-//                $('nav a').eq(i).addClass('active');
-//            }
-//        });
-//    }else{
-//        $('nav').removeClass('fixed');
-//        $('nav a.active').removeClass('active');
-//        $('nav a:first').addClass('active');
-//    }
-//});
