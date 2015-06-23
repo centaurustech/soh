@@ -1,0 +1,44 @@
+.polaroid_container
+  .col-md-3
+    min-height: 230px
+  .polaroid
+    -webkit-transform: rotate(-2deg)
+    -moz-transform: rotate(-2deg)
+    transform: rotate(-2deg)
+    background: #FFF none repeat scroll 0% 0%
+    width: 150px
+    padding: 10px 10px 15px
+    img
+      width: 128px
+    h1
+      color: #333 !important
+      text-align: center
+      text-decoration: none
+      font-family: 'Nexa Bold', serif
+      font-size: 0.8em !important
+      width: 128px
+      margin: 0 !important
+      margin-top: 10px !important
+      height: 30px
+  div
+    &:nth-child(even) .polaroid
+      -webkit-transform: rotate(2deg)
+      -moz-transform: rotate(2deg)
+    &:nth-child(3n) .polaroid
+      -webkit-transform: none
+      -moz-transform: none
+      position: relative
+      top: -5px
+    &:nth-child(5n) .polaroid
+      -webkit-transform: rotate(5deg)
+      -moz-transform: rotate(5deg)
+      position: relative
+      right: 5px
+    &:nth-child(8n) .polaroid
+      position: relative
+      top: 8px
+      right: 5px
+    &:nth-child(11n) .polaroid
+      position: relative
+      top: 3px
+      left: -5px
