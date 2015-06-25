@@ -11,6 +11,10 @@
     border: none
   .top-nav-collapse
     padding: 0
+  #navbar
+    span
+      display: none
+      visibility: hidden
 
 .navbar-inverse .navbar-nav>.active>a
   background-color: #F5F5F5 !important
@@ -53,7 +57,6 @@
       background-image: url(../images/menu/over/stampa.png)
     li.active .menu-contatti, li:hover .menu-contatti, 
       background-image: url(../images/menu/over/contatti.png)
-
   .menu-teatro
     background-image: url(../images/menu/teatro.png)
   .menu-teatro:hover
@@ -76,3 +79,23 @@
     text-align: right
     font-weight: bold
     text-transform: uppercase
+
+@media (max-device-width: 766px)
+  .navbar
+    #navbar
+      height: auto !important
+      span
+        margin-left: 40px
+      li
+        background-color: #222222
+        a
+          background-position: left
+      li.active a
+        background-color: #222222 !important
+    #menu-title
+      display: none
+      visibility: hidden
+    .navbar-header
+      header
+        display: none
+        visibility: hidden
