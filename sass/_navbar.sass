@@ -22,12 +22,12 @@
   height: 100px
   margin: 0px
   min-height: unset
-  .navbar-header header
+  .navbar-header h1
     float: right
     font-size: 2em
     margin: 30px 0px 0px 30px
-  figure.logo
-    margin-top: 15px
+  .navbar-brand
+    margin-top: 5px
     float: left
     img
       width: 80px
@@ -80,10 +80,25 @@
     font-weight: bold
     text-transform: uppercase
 
-@media (max-device-width: 766px)
+@media (max-width: 767px)
   .navbar
+    .navbar-header h1
+      float: none
+      font-size: 1.2em
+      margin: none
+      color: white
+    .navbar-brand
+      margin-top: -5px
+      float: none
+    img
+      width: 80px
+      vertical-align: middle
+      float: left
+    ul.nav li a
+      padding: 10px
     #navbar
       height: auto !important
+      margin-top: 5px
       span
         margin-left: 40px
       li
@@ -95,7 +110,4 @@
     #menu-title
       display: none
       visibility: hidden
-    .navbar-header
-      header
-        display: none
-        visibility: hidden
+    
