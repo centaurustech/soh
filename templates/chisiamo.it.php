@@ -6,7 +6,7 @@
                 <h1>CHI SIAMO</h1>
                 <div class="container polaroid_container">
                     <div class='row'>
-                        <div class='col-md-3 col-xs-12'>
+                        <div class='col-md-3 col-sm-6 col-xs-12'>
                             <article class="polaroid">
                                 <img src="images/chisiamo/alberto_cara.png">
                                 <h1>Alberto Cara</h1>
@@ -24,7 +24,7 @@
                                 </p>
                             </article>
                         </div>
-                        <div class='col-md-3 col-xs-12'>
+                        <div class='col-md-3 col-sm-6 col-xs-12'>
                             <article class="polaroid">
                                 <img src="images/chisiamo/stefano_pintor.png">
                                 <h1>Stefano Simone Pintor</h1>
@@ -35,7 +35,7 @@
                                 </p>
                             </article>
                         </div>
-                        <div class='col-md-3 col-xs-12'>
+                        <div class='col-md-3 col-sm-6 col-xs-12'>
                             <article class="polaroid">
                                 <img src="images/chisiamo/luca_ceretta.png">
                                 <h1>Luca Ceretta</h1>
@@ -49,7 +49,7 @@
                                 </p>
                             </article>
                         </div>
-                        <div class='col-md-3 col-xs-12'>
+                        <div class='col-md-3 col-sm-6 col-xs-12'>
                             <article class="polaroid">
                                 <img src="images/chisiamo/paolo_mandelli.png">
                                 <h1>Paolo Mandelli</h1>
@@ -64,7 +64,7 @@
                         </div>
                     </div>
                     <div class='row second-row'>
-                        <div class='col-md-3 col-xs-12'>
+                        <div class='col-md-3 col-sm-6 col-xs-12'>
                             <article class="polaroid">
                                 <img src="images/chisiamo/davide_montorio.png">
                                 <h1>Davide Montorio</h1>
@@ -75,7 +75,7 @@
                                 </p>
                             </article>
                         </div>
-                        <div class='col-md-3 col-xs-12'>
+                        <div class='col-md-3 col-sm-6 col-xs-12'>
                             <article class="polaroid">
                                 <img src="images/chisiamo/michele_cataneo.png">
                                 <h1>Michele Cataneo</h1>
@@ -91,7 +91,7 @@
                                 </p>
                             </article>
                         </div>
-                        <div class='col-md-3 col-xs-12'>
+                        <div class='col-md-3 col-sm-6 col-xs-12'>
                             <article class="polaroid">
                                 <img src="images/chisiamo/alberto_allegretti.png">
                                 <h1>Alberto Allegretti</h1>
