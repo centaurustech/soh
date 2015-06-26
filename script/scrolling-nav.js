@@ -65,4 +65,11 @@ $(document).ready(function () {
             $('#menu-title').removeClass().addClass(currentItem.color).html(currentItem.title).hide();
         }
     });
+    
+    // === Close Menu
+    $('.navbar-nav').on('click touchstart', function(){ 
+        if($('.navbar-header .navbar-toggle').css('display') !='none'){
+            $(".navbar-header .navbar-toggle").trigger( "click" );
+        }
+    });
 });
