@@ -53,7 +53,10 @@ if(!in_array($lang, array('it', 'en'))){
                 <div class="modal-content">
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                        <h4 class="modal-title"></h4>
+                        <h4 class="modal-title">
+                            <span class="name"></span>
+                            <small class="role"></small>
+                        </h4>
                     </div>
                     <div class="modal-body">
                         <figure>

@@ -20,7 +20,7 @@
                                     In 2007 he composes Il colore di Cenerentola, fiaba metropolitana in Quattro scene (Cinderella’s Colour, an urban tale in four scenes). The opera was co-produced by Turin’s Teatro Regio and Bologna’s Teatro Comunale, and premiered during the 2007 – 2008 seasons respectively at the Piccolo Regio Laboratorio (Turin) and L'altro Comunale (Bologna).<br />
                                     An active arranger/orchestrator he has completed works for l'As.Li.Co. - Teatro Sociale di Como <br />
                                     (Como’s Lyric Association) re-orchestrating and re-adapting repertoire operas to suit the needs of the theater during its youth outreach program series, as well as for other small provincial theaters. This activity included adapting Hänsel und Gretel by Englebert Humperdinck  in 2009 (reducing orchestration, making cuts and metric revisions to the libretto), Mozart’s Don Giovanni (reducing orchestration), and Verdi’s Nabucco ( A 2010 Coproduction by the Teatro Sociale di Como/Teatro Regio di Torino), and more recently in 2014 Verdi’s Aida.
-                                    <!--<span class="url"><a href="" target="_blank"></a></span>-->
+<!--                                    <span class="url"><a href="" target="_blank"></a></span>-->
                                 </p>
                             </article>
                         </div>
@@ -41,11 +41,10 @@
                                 <h1>Luca Ceretta</h1>
                                 <h4>Producer</h4>
                                 <p class="bio" style="display: none;">
-                                    <strong>Luca Ceretta</strong> si diploma in fagotto nel 1990 presso il Conservatorio N. Paganini di Genova. Si perfeziona nel 1991 presso la Scuola di Alto Perfezionamento Musicale di Saluzzo sotto la guida dei Maestri Vernizzi e Costantini.
-                                    <br />Ha collaborato in qualità di fagottista  con l’Orchestra Teatro alla Scala di Milano, Rai di Torino, Teatro Regio di Torino, Carlo Felice di Genova, Haydn di Bolzano, Teatro Comunale di Treviso.
-                                    <br />Dal 1996 ricopre il ruolo di Primo Fagotto presso l’Orchestra I Pomeriggi Musicali di Milano.
-                                    <br />Dal 2004 ha intrapreso un percorso parallelo a quello di musicista occupandosi di organizzazione e promozione di eventi musicali con particolare attenzione all’editoria di musica contemporanea fondando le Edizioni Musicali Sconfinarte che vantano in catalogo ad oggi circa 200 compositori e circa 900 titoli.
-                                    <!--<span class="url"><a href="" target="_blank"></a></span>-->
+                                    <strong>Luca Ceretta</strong> obtained a diploma in bassoon in 1990 at the N. Paganini Conservatory in Genoa. He continued studying bassoon at Scuola di Alto Perfezionamento Musicale of Saluzzo under the guidance of Master Vernizi and Master Costantini.
+                                    <br />He collaborated as bassoonist with the Teatro Alla Scala Orchestra of Milan, Rai of Turin, the Teatro Regio of Turin, Carlo Felice of Genoa, Haydn in Bolzano, and the Teatro Comunale of Treviso. 
+                                    <br />Since 1996 he is the First Bassoon at Milan’s Orchestra I Pomeriggi Musicali. He also started a parallel path to the one of musician organizing and promoting musical events since 2004, with particular attention to the contemporary Italian music, founding Sconfinarte Musical Editions, which counts in its catalogue approximately 200 composers and 900 titles.
+<!--                                    <span class="url"><a href="" target="_blank"></a></span>-->
                                 </p>
                             </article>
                         </div>
@@ -55,9 +54,10 @@
                                 <h1>Paolo Mandelli</h1>
                                 <h4>Producer</h4>
                                 <p class="bio" style="display: none;">
-                                    <strong>Paolo Mandelli</strong> Nato a Brescia  nel 1969, studia nella città natale dove si diploma in oboe con il massimo dei voti e consegue la maturità scientifica.  In qualità di primo oboe ha collaborato con le più importanti orchestre nazionali diretto dai Maestri Riccardo Chailly, Riccardo Muti, George Pretre, Sir Neville Marriner e Carlo Maria Giulini. In qualità di solista ha tenuto numerosi concerti con l'Orchestra del Festival Pianistico Internazionale di Brescia e Bergamo, I Solisti Veneti e l'Orchestra Giovanile Italiana.  Dal 2000 ricopre il ruolo di  primo oboe presso l’Orchestra "I Pomeriggi Musicali di Milano".
-                                    <br />Parallelamente dal 2004 inizia un’attività da organizzatore di eventi partendo dalla creazione di un’ associazione Culturale, prendendo poi in  gestione  l’Orchestra Filarmonica Italiana fino  all’apertura della Società Retropalco srl e nel 2014 di AllOpera srl
-                                    <br />In questi ultimi anni l’intensificarsi dell’attività che spazia  dall’organizzazione  alla fornitura di servizi per lo spettacolo, dalla consulenza artistica alla  gestione dei tour dell’orchestra, lo ha portato a ridurre drasticamente l’impegno presso l’orchestra del Pomeriggi Musicali fino ad abbandonarlo all’inizio del 2014 per potersi dedicare completamente allo sviluppo dei progetti intrapresi.
+                                    <strong>Paolo Mandelli</strong>, born in Brescia in 1969, studied in his native town obtaining a diploma in oboe with highest honors, as well as finishing scientific A level. 
+                                    <br />As First Oboe he collaborated with the most important national orchestras, being directed by Riccardo Chailly, Riccardo Muti, George Pretre, Sir Neville Marriner and Carlo Maria Giulini. As a solo artist he took part to many concerts with Brescia and Bergamo’s Orchestra del Festival Pianistico Internazionale, I Solisti Veneti and the Orchestra Giovanile Italiana. Since 2000 he is First Oboe at Milan’s Orchestra I Pomeriggi Musicali.
+                                    <br />At the same time, since 2004 he started as event manager creating a cultural association, and afterwards managing the Italian Philharmonic Orchestra until the opening of Società Retropalco Srl and in 2014 AllOpera Srl.
+                                    <br />In the last years his intense work, which spans from organization to show business services supply, from artistic consultancy to orchestra tour managing, lead him to severely reduce his engagement to Orchestra I Pomeriggi Musicali, ultimately quitting in 2014 to fully commit to the development of his projects.
                                     <!--<span class="url"><a href="" target="_blank"></a></span>-->
                                 </p>
                             </article>
@@ -81,12 +81,11 @@
                                 <h1>Michele Cataneo</h1>
                                 <h4>Web Designer</h4>
                                 <p class="bio" style="display: none;">
-                                    <strong>Michele Cataneo</strong> (in arte Sushidub) è un giovane web designer freelance della provincia di Novara e lavora a Milano presso un importante azienda radiofonica come grafico. Sushidub-designer.com è il suo sito personale, dove sono raccolte tutte le informazioni riguardanti i suoi lavori, i progetti che realizza e tutte le info per contattarlo.<br />
-                                    Disponibile a qualsiasi offerta di collaborazione purché originale e divertente. Adora la musica, il cinema, i libri fantasy e nel tempo libero si cimenta come DJ realizzando anche diversi podcast dei suoi mix.<br />
-                                    Ottime doti relazionali, grande flessibilità e capacità di adattamento in qualunque ambito lavorativo relativo alla mia figura professionale. Ottime capacità organizzative finalizzate al raggiungimento degli obbiettivi. Scrupoloso ed attento alle esigenze del cliente.<br />
-                                    Ama il lavoro in team che gli permette un confronto continuo ed un costante ampliamento delle conoscenze e competenze.<br />
-                                    Competenze che spaziano da progetti orientati al web a creazioni per la stampa ma forte passione anche per audio e video editing (Audition, iMovie, FinalCut...)<br />
-                                    Il suo motto: "Conosco un solo dovere: CREARE".<br />
+                                    <strong>Michele Cataneo</strong> (aka Sushidub) is a young web designer from Novara (Italy) and works in Milan for a major broadcasting company as graphic designer. Sushidub-designer.com is his personal website, where you can find all information regarding his work, his projects and his contacts details.
+                                    He is always open to now collaborations, as long as they are original and fun. He loves music, cinema, fantasy books and in his spare time he likes to practice as DJ, creating several podcasts with his mixes.
+                                    Moreover he has great interpersonal abilities, flexibility and adaptability to any kind of working environment related to his professional area. He has good organizational skills to meet set goals and he’s meticulous and careful about the needs of the client.
+                                    He loves teamwork which allows for a constant confrontation but also enrichment with knowledge and competences, which may span from web-oriented projects to press creation but also passion for audio and video editing (Audition, iMovie, FinalCut…)
+                                    His motto is: “I only know one obligation: TO CREATE”.
                                     <span class="url"><a href="http://www.sushidub-designer.com" target="_blank">sushidub-designer.com</a></span>
                                 </p>
                             </article>
@@ -97,10 +96,10 @@
                                 <h1>Alberto Allegretti</h1>
                                 <h4>Graphic Designer</h4>
                                 <p class="bio" style="display: none;">
-                                    <strong>Alberto Allegretti</strong> si è diplomato con il massimo dei voti in scenografia teatrale presso l’Accademia di Belle Arti di Brera.<br />
-                                    Durante il suo percorso accademico ha preso parte a numerosi progetti che lo hanno visto coinvolto, insieme ad altri studenti, come scenografo e costumista. Tra questi si ricordano "Sound Music", rappresentazione semiscenica di "Sogno di una notte di mezza estate" di F. Mendelssohn Bartoldy, ideato e diretto dal regista F.Micheli; "Tosca", diretta da F. Santambrogio, produzione del Teatro Sociale di Como nell’ambito di Pocketopera; "Così fan tutte", diretta da S. Collazuol, altra produzione del Teatro Sociale di Como sempre nell’ambito di Pocketopera.<br />
-                                    Negli ultimi anni ha iniziato a lavorare come attrezzista nel teatro d’opera lirica seguendo produzioni dirette da registi come A. Cigni, F. Grazzini , G. Vick e S. S. Pintor.
-<!--                                    <span class="url"><a href="" target="_blank"></a></span>-->
+                                    <strong>Alberto Allegretti</strong> graduated with honors in stage design at the Academy of Fine Arts of Brera.
+                                    <br />During his academic career he took part in several projects, along with other students, as set and costume designer. Among these: "Sound Music", a semi-staged performance of "A Midsummer Night's Dream" by F. Mendelssohn Bartoldy, conceived and directed by F.Micheli; "Tosca" directed by F. Santambrogio, production of the Teatro Sociale di Como within the Pocket Opera project; "Cosi fan tutte", directed by S. Collazuol, an other production of the Teatro Sociale di Como always within the Pocket Opera project.
+                                    <br />In recent years he began working as a propman following big lyric opera productions directed by directors such as A. Swan, F. Grazzini, G. Vick and S.S. Pintor.
+                                    <!--<span class="url"><a href="" target="_blank"></a></span>-->
                                 </p>
                             </article>
                         </div>

@@ -9,48 +9,48 @@
                         <p class="white-text right-text">
                             <span class="uppercase bold">THE BANKER</span><br />
                             Web Opera Series<br />
-                            Un progetto originale di <strong>Alberto Cara</strong> e <strong>Stefano Simone Pintor</strong><br />
-                            realizzato e prodotto con il sostegno di <strong>Retropalco srl</strong>.
+                            An original project by  <strong>Alberto Cara</strong> and <strong>Stefano Simone Pintor</strong><br />
+                            made and produced with the support of <strong>Retropalco srl</strong>.
                             <br /><br />
                             <strong>
-                                Puntata 0 – Pilota<br />
-                                Lingua – Inglese con sottotitoli<br />
-                                Sottotitoli disponibili – Inglese, Italiano, Francese e Tedesco<br />
+                                Episode 0 – Pilot<br />
+                                Language – English with Subtitles<br />
+                                Available Subtitles – English, Italian, French and German<br />
                             </strong>
                             <br />
-                            Soggetto di <strong>Alberto Cara</strong> e <strong>Stefano Simone Pintor</strong><br />
-                            Libretto di <strong>Stefano Simone Pintor</strong><br />
-                            Musica di <strong>Alberto Cara</strong><br />
+                            Story by <strong>Alberto Cara</strong> and <strong>Stefano Simone Pintor</strong><br />
+                            Libretto by <strong>Stefano Simone Pintor</strong><br />
+                            Music by <strong>Alberto Cara</strong><br />
                             <strong>Edizioni Sconfinarte</strong><br />
                             <br />
-                            Direzione d'orchestra – <strong>Alessadro Cadario</strong><br />
-                            Regia – <strong>Stefano Simone Pintor</strong><br />
+                            Conductor – <strong>Alessadro Cadario</strong><br />
+                            Director - <strong>Stefano Simone Pintor</strong><br />
                             <br />
-                            <strong>Carlo Checchi</strong> - Baritono: Walter J. Conrad<br />
-                            <strong>Paolo Cauteruccio</strong> - Tenore: Jacob Gilbert<br />
+                            <strong>Carlo Checchi</strong> - Baritone: Walter J. Conrad<br />
+                            <strong>Paolo Cauteruccio</strong> - Tenor: Jacob Gilbert<br />
                             <strong>Lucrezia Drei</strong> - Soprano: Lena Stevens<br />
                             <br />
-                            Scene e costumi – <strong>Alberto Allegretti</strong><br />
-                            Trucco – <strong>Chiara Radice</strong><br />
-                            Luci e fotografia – <strong>Giulio Oldrini e Virginio Levrio</strong><br />
-                            Montaggio video – <strong>Virginio Levrio</strong><br />
-                            Operatore SteadyCam, Crane, Slider e speciali – <strong>Davide Puzziferri</strong><br />
+                            Set and Costumes – <strong>Alberto Allegretti</strong><br />
+                            Make Up – <strong>Chiara Radice</strong><br />
+                            Lighting and Photography – <strong>Giulio Oldrini e Virginio Levrio</strong><br />
+                            Video Editing – <strong>Virginio Levrio</strong><br />
+                            SteadyCam, Crane, Slider and Specials Operator – <strong>Davide Puzziferri</strong><br />
                             <br />
-                            Riprese audio, registrazione, mixing e mastering – <strong>Andrea Pestarino</strong><br />
+                            Sound, Recording, Mixing and Mastering – <strong>Andrea Pestarino</strong><br />
                             <br />
                             <span class="uppercase">Orchestra</span><br />
-                            Violino – <strong>Igor Riva</strong><br />
-                            Violino – <strong>Diego Ceretta</strong><br />
+                            Violin – <strong>Igor Riva</strong><br />
+                            Violin – <strong>Diego Ceretta</strong><br />
                             Viola – <strong>Irina Balta</strong><br />
                             Violoncello – <strong>Claudio Giacomazzi</strong><br />
-                            Contrabbasso – <strong>Andrea Sala</strong><br />
-                            Clarinetto – <strong>Chiara Percivati</strong><br />
+                            Double Bass – <strong>Andrea Sala</strong><br />
+                            Clarinet – <strong>Chiara Percivati</strong><br />
                             Trombone – <strong>Mattia San Lorenzo</strong><br />
-                            Pianoforte – <strong>Marta Ceretta</strong><br />
-                            Percussioni – <strong>Marco Scolari</strong>
+                            Piano – <strong>Marta Ceretta</strong><br />
+                            Percussion – <strong>Marco Scolari</strong>
                             <br /><br />
-                            Sponsor tecnici – <strong>VAS, Cavalli Musica</strong><br />
-                            Si ringraziano: Davide Montorio, Michele Cataneo, Ian Burton, Mara Andreetto, Ekaterina Zimina, Sara Temporin, Mattia Minardi, Ginevra Danielli, Emma Buccelloni, Giancarlo Montorio, il sindaco dott. Gino Spiota e tutto il comune di Monastero Bormida (AT – Italia)
+                            Technical Sponsors – <strong>VAS, Cavalli Musica</strong><br />
+                            Special thanks to: Davide Montorio, Michele Cataneo, Ian Burton, Mara Andreetto, Ekaterina Zimina, Sara Temporin, Mattia Minardi, Ginevra Danielli, Emma Buccelloni, Giancarlo Montorio, Mayor Dr. Gino Spiota and the town of Monastero Bormida (AT – Italy)
                         </p>
                     </div>
                 </div>

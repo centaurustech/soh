@@ -2,13 +2,13 @@
 <section id="filosofia" class="section yellow">
     <div class="container-fluid">
         <div class="row">
-            <h1>FILOSOFIA</h1>
+            <h1>LA FILOSOFIA</h1>
             <div class="col-md-2 hidden-xs"></div>
             <div class="col-md-4 col-xs-12 text-section">
                 <h1>Del resto, come diceva Cechov...</h1>
                 <p class="justify">
                     "Sono necessarie nuove forme, nuove forme sono necessarie, e se queste mancano, allora meglio che niente sia necessario."<br />
-                    E allora: che si alzi il sipario su questa nuova ricerca! Come sarà il teatro del futuro? Si chiamerà ancora “teatro”? O sarà forse un nuovo genere capace di unire scrittura, musica, danza, arti figurative, cinema, ma anche scienza, tecnologia, realtà fisica, realtà aumentata e realtà virtuale?
+                    E allora: che si alzi il sipario su questa nuova ricerca! Come sarà il teatro del futuro? Si chiamerà ancora "teatro"? O sarà forse un nuovo genere capace di unire scrittura, musica, danza, arti figurative, cinema, ma anche scienza, tecnologia, realtà fisica, realtà aumentata e realtà virtuale?
                 </p>
             </div>
 
@@ -35,7 +35,9 @@
                     <p class="justify">
                         Non necessariamente. Certamente queste nuove opere rifletteranno ed esamineranno la società moderna e contemporanea, con un occhio di particolare riguardo alle conseguenze che ha il progresso tecnologico su tutti noi. Detto questo, anche un classico rivisitato è ben accolto ugualmente dal nostro progetto. L'importante è che o il soggetto o il mezzo con cui esso viene narrato riflettano il rapporto dell'uomo contemporaneo con le nuove tecnologie.
                     </p>
-                    <p>Se ti interessa saperne di più sulla filosofia del nostro teatro, scarica il nostro "Manualetto d'istruzioni per un utilizzo corretto e consapevole di The Social Opera House e The Streaming Theatre".</p><a href="#" class="btn btn-large btn-primary">DOWNLOAD</a>
+                    <br />
+                    <p>Se ti interessa saperne di più sulla filosofia del nostro teatro, scarica il nostro "Manualetto d'istruzioni" per un utilizzo corretto e consapevole di The Social Opera House e The Streaming Theatre.</p>
+                    <a href="files/SocialOperaHouse_it.pdf" target="_blank" class="btn btn-large btn-primary">DOWNLOAD</a>
                 </div>
             </div>
         </div>

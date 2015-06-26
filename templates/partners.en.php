@@ -2,7 +2,7 @@
 <section id="press" class="section violet">
     <div class="container-fluid">
         <div class='row'>
-            <h1 class="white-text">Partners e Rassegna Stampa</h1>
+            <h1 class="white-text">PARTNERS AND PRESS</h1>
             <div class="container">
                 <div class="row">
                     <div class='col-md-3 col-xs-12'>
@@ -55,9 +55,9 @@
             </div>
         </div>
         <div class="row press-txt">
-            <h1>Dicono di noi...</h1>
+            <h1>Press-room...<h1>
             <p>
-                Clicca qui sotto per leggere la nostra rassegna stampa.
+                Click below to read our press release.
             </p>
             <a href="#" class="btn btn-large btn-primary">DOWNLOAD</a>
         </div>

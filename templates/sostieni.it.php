@@ -7,13 +7,14 @@
                 <article>
                     <p class="justify">
                         The Social Opera House e The Streaming Theatre sono due teatri gemelli la cui mission è quella di promuovere svariati progetti in grado di coniugare il teatro o altre antichissime arti con le nuove tecnologie informatiche e del web.
-                        Aspirando a mantenere una fruizione sempre gratuita per i propri artisti e spettatori, The Social Opera House e The Streaming Theatre hanno deciso di basare la propria ricerca di fondi sul sistema del crowdfunding, attualmente realizzato grazie alla piattaforma PDB Network by Produzioni dal Basso, visitabile direttamente sui nostri siti (ospitata in embedding)
+                        Aspirando a mantenere una fruizione sempre gratuita per i propri artisti e spettatori, The Social Opera House e The Streaming Theatre hanno deciso di basare la propria ricerca di fondi sul sistema del crowdfunding, attualmente realizzato grazie alla piattaforma PDB Network by Produzioni dal Basso, visitabile direttamente sui nostri siti.
                     </p>
                     <h1>Una comunità di artisti</h1>
                     <p class="justify">
                         The Social Opera House, assieme al suo teatro gemello The Streaming Theatre, sono un contenitore di produzioni per artisti innovativi provenienti da tutto il mondo. Chiunque può sottoporre il proprio progetto, di qualsiasi genere si tratti (purché originale e mai realizzato prima).
                         Il nostro staff di art directors fungerà da moderatore per verificare che il progetto sia in linea con la nostra ricerca artistica e per mantenere una stagione di sempre elevata qualità.
-                    </p>
+                    </p><br />
+                    <p><strong>Di seguito alcuni dei progetti che stanno ricevendo finanziamenti sul nostro Crowdfunding Network di Produzioni dal Basso.</strong></p>
                 </article>
             </div>
         </div>
@@ -42,11 +43,6 @@
                 </p>
             </div>
             <div class="col-md-2 hidden-xs"></div>
-        </div>
-        <div class='row'>
-            <div class='col-md-12'>
-                <a href="#" class="btn btn-large btn-primary">SCARICA MANUALE</a>
-            </div>
         </div>
     </div>
 </section>

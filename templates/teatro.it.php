@@ -8,13 +8,13 @@
                 <h1>L'altra dimensione del teatro</h1>
                 <p class="justify">
                     The Social Opera House è il primo teatro d'opera lirica al mondo completamente virtuale: non ha una sede fisica, esiste soltanto e unicamente online.<br />
-                    Allo stesso modo, The Streaming Theatre è il primo teatro di prosa al mondo completamente virtuale.
+                    Similmente, The Streaming Theatre è il primo teatro di prosa al mondo completamente virtuale.
                 </p>
             </div>
             <div class="col-md-4 col-xs-12 text-section">
                 <h1>L'intuizione</h1>
                 <p class="justify">
-                    Si dice che il teatro (dal verbo greco “theáomai”, “guardare”) esista solo nella misura in cui qualcuno guarda e qualcuno è guardato. In pratica, il teatro è il collegamento che si crea fra uno spettatore e un attore. <br />
+                    Si dice che il teatro (dal verbo greco "theáomai", "guardare") esista solo nella misura in cui qualcuno guarda e qualcuno è guardato. In pratica, il teatro è il collegamento che si crea fra uno spettatore e un attore. <br />
                     Allo stesso modo, Internet e le nuove tecnologie offrono a ognuno di noi un collegamento continuo. Oggi tutti siamo sempre connessi e compresenti in un luogo virtuale, dove la comunità allargata e globale del Web può incontrarsi come e quando vuole.
                 </p>
             </div>

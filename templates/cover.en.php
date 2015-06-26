@@ -13,7 +13,7 @@
         </div>
         <div id="scroll-down" class="hidden-xs">
             <a href="#teatro" id="scroll-down-link">
-                <img src="./images/down-arrow.png" alt="Scendi in basso" width="70">
+                <img src="./images/down-arrow.png" alt="Scroll Down" width="70">
             </a>
         </div>
     </div>
