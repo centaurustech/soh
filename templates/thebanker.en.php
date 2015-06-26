@@ -79,6 +79,6 @@
 </section>
 <section id="player">
     <div class="js-video vimeo widescreen">
-        <iframe src="https://player.vimeo.com/video/128605236" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <iframe src="https://player.vimeo.com/video/120878175" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
 </section>
