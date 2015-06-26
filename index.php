@@ -2,17 +2,17 @@
 session_start();
 header('Cache-control: private');
 if (isset($_GET['lang'])) {
-    $lang               = $_GET['lang'];
+    $lang               = strtolower($_GET['lang']);
     $_SESSION['lang']   = $lang;
     setcookie('lang', $lang, time() + (3600 * 24 * 30));
 } else if (isset($_SESSION['lang'])) {
-    $lang = $_SESSION['lang'];
+    $lang = strtolower($_SESSION['lang']);
 } else if (isset($_COOKIE['lang'])) {
-    $lang = $_COOKIE['lang'];
+    $lang = strtolower($_COOKIE['lang']);
 } else {
     $lang = 'en';
 }
-if(!in_array($lang, array('it', 'en'))){
+if(!in_array($lang, array('it', 'en', 'IT', 'EN'))){
     $lang = 'en';
 }
 ?>

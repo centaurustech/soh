@@ -22,22 +22,36 @@
   height: 100px
   margin: 0px
   min-height: unset
-  .navbar-header h1
-    float: right
-    font-size: 2em
-    margin: 30px 0px 0px -35px
+  .navbar-header
+    h1
+      float: right
+      font-size: 2em
+      margin: 30px 0px 0px -35px
+    &:hover h1, &:hover #lang 
+      color: #9D9D9D !important
   #lang
     text-align: center
     left: 22px
     position: relative
     top: -35px
     display: inline-block
-    width: 50px
+    width: 60px
+    a
+      color: #9D9D9D !important
+      &:hover
+        color: #2C475C !important
+        text-decoration: none
+        font-weight: bold
+    a.active
+      color: #2C475C !important
+      font-weight: bold !important
   .navbar-brand
     margin-top: 5px
     float: left
     img
       width: 80px
+    a:hover
+      color: #9D9D9D !important
   ul.nav li
     a
       padding: 25px

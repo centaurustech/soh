@@ -14,8 +14,8 @@
                     <img src="./images/logo.png" alt="Social Opera House Logo" class="visible-xs">
                 </a>
                 <div id="lang">
-                    <a href="?lang=it" class="<?php echo $lang == 'it' ? 'active' : ''; ?>">IT</a>|
-                    <a href="?lang=en" class="<?php echo $lang == 'en' ? 'active' : ''; ?>">EN</a>
+                    <a href="?lang=en" class="<?php echo $lang == 'en' ? 'active' : ''; ?>">EN</a> |
+                    <a href="?lang=it" class="<?php echo $lang == 'it' ? 'active' : ''; ?>">IT</a>
                 </div>
                 <h1>THE SOCIAL OPERA HOUSE</h1>
             </div>
