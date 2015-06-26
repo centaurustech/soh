@@ -25,16 +25,15 @@
   .navbar-header
     h1
       float: right
-      font-size: 2em
-      margin: 30px 0px 0px -35px
+      font-size: 1.6em
+      margin: 30px 0px 0px 30px
     &:hover h1, &:hover #lang 
       color: #9D9D9D !important
   #lang
     text-align: center
-    left: 22px
+    left: 100px
     position: relative
-    top: -35px
-    display: inline-block
+    top: -30px
     width: 60px
     a
       color: #9D9D9D !important
@@ -102,14 +101,6 @@
     text-transform: uppercase
 
 
-@media (min-width: 768px) and (max-width: 1024px)
-  .navbar
-    height: 100px
-    margin: 0px
-    min-height: unset
-    .navbar-header
-      h1
-        font-size: 0.8em !important
 
 @media (max-width: 767px)
   .navbar
@@ -118,6 +109,12 @@
       font-size: 1.2em
       margin: none
       color: white
+    #lang
+      text-align: center
+      left: 100px
+      position: relative
+      top: -70px
+      width: 60px
     .navbar-brand
       margin-top: -5px
       float: none
@@ -131,7 +128,7 @@
         padding-left: 15px
     #navbar
       height: auto !important
-      margin-top: 5px
+      margin-top: -15px
       span
         margin-left: 40px
       li
@@ -144,3 +141,32 @@
       display: none
       visibility: hidden
     
+
+@media (min-width: 768px) and (max-width: 991px)
+
+  .navbar
+    height: 100px
+    margin: 0px
+    min-height: unset
+    .navbar-header
+      h1
+        float: right
+        font-size: 0.8em
+    
+    
+@media (min-width: 992px) and (max-width: 1200px)
+  .navbar
+    height: 100px
+    margin: 0px
+    min-height: unset
+    .navbar-header
+      h1
+        float: right
+        font-size: 1.6em
+    
+@media (min-width: 1200px)
+  .navbar
+    .navbar-header
+      h1
+        float: right
+        font-size: 2.5em

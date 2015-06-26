@@ -1,1 +1,740 @@
-body,html{width:100%;height:100%;background:#fff}@font-face{font-family:"Nexa Light";src:url("../fonts/NexaLight.otf") format("truetype");font-style:normal;font-weight:normal;text-rendering:optimizeLegibility}@font-face{font-family:"Nexa Bold";src:url("../fonts/NexaBold.otf") format("truetype");font-style:normal;font-weight:normal;text-rendering:optimizeLegibility}@perpetua{font-family:"Perpetua Titling MT";src:url("../fonts/PerpetuaTitlingMT.otf") format("truetype");font-style:normal;font-weight:normal;text-rendering:optimizeLegibility}body{font-family:"Nexa Light",serif;font-size:16px}.bold{font-family:"Nexa Bold",serif;font-size:1.5em}.text-paper{font-size:0.85em}.block-image h1{text-align:center}.bold{font-family:"Nexa Bold",serif;font-size:medium}.justify{text-align:justify}.right-text{text-align:right}.uppercase{text-transform:uppercase}.hidden{display:none;visibility:hidden}.orange{background-color:#ef9f64}.orange-text{color:#ef9f64}.white-text{color:#fff}.pink-text{color:#e794ae}.pink{background-color:#e794ae}.violet{background-color:#8086a0}.violet-text{color:#8086a0}.white{background-color:#fff}.white-text{color:#fff}.blue-dark{background-color:#15212D}.blue-dark-text{color:#15212D}.dark-grey{background-color:#666}.dark-grey-text{background-color:#666}.light-blue{background-color:#9fd8e0}.light-blue-text{color:#9fd8e0}.green{background-color:#a7b96f}.green-text{color:#a7b96f}.light-grey{background-color:#b9baba}.light-grey-text{color:#B9BABA}.yellow{background-color:#edd66c}.yellow-text{color:#edd66c}@media (min-width: 767px){.navbar{-webkit-transition:background 0.5s ease-in-out,padding 0.5s ease-in-out;-moz-transition:background 0.5s ease-in-out,padding 0.5s ease-in-out;transition:background 0.5s ease-in-out,padding 0.5s ease-in-out}.navbar .navbar-nav{float:right;margin-top:10px}.navbar.navbar-inverse{background-color:#F5F5F5 !important;border:none}.top-nav-collapse{padding:0}#navbar span{display:none;visibility:hidden}}.navbar-inverse .navbar-nav>.active>a{background-color:#F5F5F5 !important}.navbar{height:100px;margin:0px;min-height:unset}.navbar .navbar-header h1{float:right;font-size:2em;margin:30px 0px 0px -35px}.navbar .navbar-header:hover h1,.navbar .navbar-header:hover #lang{color:#9D9D9D !important}.navbar #lang{text-align:center;left:22px;position:relative;top:-35px;display:inline-block;width:60px}.navbar #lang a{color:#9D9D9D !important}.navbar #lang a:hover{color:#2C475C !important;text-decoration:none;font-weight:bold}.navbar #lang a.active{color:#2C475C !important;font-weight:bold !important}.navbar .navbar-brand{margin-top:5px;float:left}.navbar .navbar-brand img{width:80px}.navbar .navbar-brand a:hover{color:#9D9D9D !important}.navbar ul.nav li a{padding:25px;background-position:center top;background-repeat:no-repeat;background-size:50px 50px}.navbar #navbar{height:70px !important}.navbar #navbar li.active{background-color:none !important}.navbar #navbar li.active .menu-teatro,.navbar #navbar li:hover .menu-teatro{background-image:url(../images/menu/over/teatro.png)}.navbar #navbar li.active .menu-filosofia,.navbar #navbar li:hover .menu-filosofia{background-image:url(../images/menu/over/cosa-offriamo.png)}.navbar #navbar li.active .menu-opera,.navbar #navbar li:hover .menu-opera{background-image:url(../images/menu/over/la-stagione.png)}.navbar #navbar li.active .menu-banker,.navbar #navbar li:hover .menu-banker{background-image:url(../images/menu/over/the-banker.png)}.navbar #navbar li.active .menu-crowd,.navbar #navbar li:hover .menu-crowd{background-image:url(../images/menu/over/sostieni-teatro.png)}.navbar #navbar li.active .menu-partners,.navbar #navbar li:hover .menu-partners{background-image:url(../images/menu/over/chi-siamo.png)}.navbar #navbar li.active .menu-press,.navbar #navbar li:hover .menu-press{background-image:url(../images/menu/over/stampa.png)}.navbar #navbar li.active .menu-contatti,.navbar #navbar li:hover .menu-contatti{background-image:url(../images/menu/over/contatti.png)}.navbar .menu-teatro{background-image:url(../images/menu/teatro.png)}.navbar .menu-teatro:hover{background-image:url(../images/menu/over/teatro.png)}.navbar .menu-filosofia{background-image:url(../images/menu/cosa-offriamo.png)}.navbar .menu-opera{background-image:url(../images/menu/la-stagione.png)}.navbar .menu-banker{background-image:url(../images/menu/the-banker.png)}.navbar .menu-crowd{background-image:url(../images/menu/sostieni-teatro.png)}.navbar .menu-partners{background-image:url(../images/menu/chi-siamo.png)}.navbar .menu-press{background-image:url(../images/menu/stampa.png)}.navbar .menu-contatti{background-image:url(../images/menu/contatti.png)}.navbar #menu-title{text-align:right;font-weight:bold;text-transform:uppercase}@media (min-width: 768px) and (max-width: 1024px){.navbar{height:100px;margin:0px;min-height:unset}.navbar .navbar-header h1{font-size:0.8em !important}}@media (max-width: 767px){.navbar .navbar-header h1{float:none;font-size:1.2em;margin:none;color:#fff}.navbar .navbar-brand{margin-top:-5px;float:none}.navbar img{width:80px;vertical-align:middle;float:left}.navbar ul.nav li a{padding:10px}.navbar ul.nav li a span{padding-left:15px}.navbar #navbar{height:auto !important;margin-top:5px}.navbar #navbar span{margin-left:40px}.navbar #navbar li{background-color:#222}.navbar #navbar li a{background-position:left}.navbar #navbar li.active a{background-color:#222 !important}.navbar #menu-title{display:none;visibility:hidden}}html,body{height:100%}.container-fluid{min-height:100%;height:100%}.img-responsive{display:inline !important}#teatro{padding-top:100px;text-align:center;width:100%;min-height:100%;display:block}#filosofia{padding-top:100px;text-align:center;width:100%;min-height:100%;display:block}#stagione{padding-top:100px;text-align:center;width:100%;min-height:100%;display:block}#the_banker{padding-top:100px;text-align:center;width:100%;min-height:100%;display:block}#player{padding-top:0px;text-align:center;width:100%;min-height:100%;display:block}#contatti{padding-top:100px;text-align:center;width:100%;min-height:100%;display:block}#press{padding-top:100px;text-align:center;width:100%;min-height:100%;display:block}#sostieni{padding-top:100px;text-align:center;width:100%;min-height:100%;display:block}#chi_siamo{padding-top:100px;text-align:center;width:100%;min-height:100%;display:block}#press{padding-top:100px;text-align:center;width:100%;min-height:100%;display:block}#cover{text-align:center;color:#fff;background-attachment:scroll;background-image:url(../images/header1.jpg);background-position:center top;background-repeat:no-repeat;height:100%;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover}#cover h1{font-family:"Nexa Light",serif;font-size:2.5em;text-align:left}#cover figure img{float:left;width:120px;margin:0px !important;padding:0px !important}#cover #scroll-down{position:relative;width:100%;height:100%}#cover #scroll-down #scroll-down-link{width:150px;position:absolute;bottom:210px;right:0px}@media (max-width: 767px){#cover{text-align:center;color:#fff;background-attachment:scroll;background-image:url(../images/header1.jpg);background-position:center top;background-repeat:no-repeat;max-height:400px !important;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover}#cover h1{font-family:"Nexa Light",serif;font-size:1.8em;text-align:left}#cover figure img{float:left;width:90px;margin:0px !important;padding:0px !important}#cover #scroll-down-link{width:150px !important;position:absolute !important;top:140px !important;bottom:0px !important;right:-50px !important}}#teatro .text-section{font-size:1em}#teatro .text-section h1{font-family:"Nexa Bold",serif;font-size:1.5em}#teatro .img-teatro{margin-bottom:30px;margin-top:20px}#filosofia .text-section{font-size:1em}#filosofia .text-section h1{font-family:"Nexa Bold",serif;font-size:1.5em}#filosofia .con-sfondo{background-attachment:scroll;background-image:url("../images/filosofia.jpg");background-position:center bottom;background-repeat:no-repeat;background-size:cover;height:100%;padding-top:100px;padding-bottom:100px;margin-top:40px}#filosofia .con-sfondo h1{font-family:"Nexa Bold",serif;font-size:1.5em}#filosofia .con-sfondo .page1{padding-top:40px}#filosofia .con-sfondo .page2{padding-top:40px}#filosofia .container-fogli{margin:0 auto}#filosofia .container-fogli .foglisx{width:583px;height:768px;padding:100px 30px 0px 130px;background-attachment:scroll;background-image:url("../images/foglisx.png");background-position:center top;background-repeat:no-repeat;background-size:583px 768px}#filosofia .container-fogli .foglidx{width:608px;height:709px;padding:110px 100px 0px 90px;background-attachment:scroll;background-image:url("../images/foglidx.png");background-position:center top;background-repeat:no-repeat;background-size:608px 709px}@media (min-width: 1241px){#filosofia .container-fogli{width:1241px !important}}@media (max-width: 1024px){#filosofia .con-sfondo{background-image:url("../images/filosofia.jpg");background-position:center bottom;background-repeat:no-repeat;background-size:cover;padding:0px !important;margin-top:0px !important}.container-fogli{width:auto !important;margin:0 auto}.container-fogli .foglisx{width:100% !important;height:100% !important;background-image:none !important;padding:0px 15px !important}.container-fogli .foglidx{width:100% !important;height:100% !important;background-image:none !important;padding:0px 15px !important}}#stagione{font-size:1em}#stagione .calendar{text-align:center}#stagione .calendar img{width:80%}#stagione .calendar p{margin-top:30px}#stagione .text-section{width:50%;margin:0 auto}@media (max-width: 1024px){#stagione .calendar img{width:90%}}#the_banker{background-attachment:scroll;background-position:center center;background-repeat:no-repeat;background-size:cover;padding-bottom:30px;color:#fff;text-align:center}#the_banker .credits{margin-top:0px;line-height:18px}#the_banker h2{font-family:"Perpetua Titling MT";font-size:1.5em;margin-top:10px;line-height:0px}#the_banker h1{font-family:"Perpetua Titling MT";font-size:4.5em;line-height:55px}#the_banker h3{font-family:"Perpetua Titling MT";font-size:1.2em;line-height:0px}#the_banker img{margin-bottom:30px}@media(max-width:767px){#the_banker{background-image:none}}@media(min-width:768px){#the_banker{background-image:url("../images/bg-banker.jpg")}}#player .js-vide{height:0;padding-top:25px;padding-bottom:67.5%;margin-bottom:10px;position:relative;overflow:hidden}#player .js-video.widescreen{padding:0px}#player .js-video embed,#player .js-video iframe,#player .js-video object,#player .js-video video{top:0;left:0;width:100%;height:100%;min-height:900px;position:relative;margin:0px;margin-bottom:-15px}#player #player_frame{width:100%;height:100%}#sostieni{padding-bottom:50px}#sostieni h1{font-size:2.25em}#sostieni .text-section{margin-top:40px;font-size:1em}#sostieni .text-section h1{font-family:"Nexa Bold",serif;font-size:1.5em}#sostieni .text-section .thumb-video{margin-bottom:50px}#chi_siamo h1{font-size:2.25em;color:#fff;margin-bottom:50px}#chi_siamo h4{font-size:0.7em;margin:0px !important}#chi_siamo article{margin:0 auto;font-size:1.125em}#chi_siamo .second-row{margin-left:200px;margin-top:20px}.polaroid_container .col-md-3{min-height:240px}.polaroid_container .col-md-3:hover{cursor:pointer;position:relative;z-index:5}.polaroid_container .col-md-3:hover .polaroid{-webkit-transform:scale(1.5);-moz-transform:scale(1.5);transform:scale(1.5);-webkit-box-shadow:0 3px 6px rgba(0,0,0,0.5);-moz-box-shadow:0 3px 6px rgba(0,0,0,0.5);box-shadow:0 3px 6px rgba(0,0,0,0.5)}.polaroid_container .polaroid{-webkit-transition:-webkit-transform 0.15s linear;-moz-transition:-moz-transform 0.15s linear;transition:transform 0.15s linear;-webkit-box-shadow:0 3px 6px rgba(0,0,0,0.25);-moz-box-shadow:0 3px 6px rgba(0,0,0,0.25);box-shadow:0 3px 6px rgba(0,0,0,0.25);-webkit-transform:rotate(-2deg);-moz-transform:rotate(-2deg);transform:rotate(-2deg);background:#FFF none repeat scroll 0% 0%;width:150px;padding:10px 10px 15px}.polaroid_container .polaroid img{width:128px}.polaroid_container .polaroid h1{color:#333 !important;text-align:center;text-decoration:none;font-family:"Nexa Bold",serif;font-size:0.8em !important;width:128px;margin:0 !important;margin-top:10px !important;height:auto}.polaroid_container div:nth-child(even) .polaroid{-webkit-transform:rotate(2deg);-moz-transform:rotate(2deg)}.polaroid_container div:nth-child(3n) .polaroid{-webkit-transform:none;-moz-transform:none;position:relative;top:-5px}.polaroid_container div:nth-child(5n) .polaroid{-webkit-transform:rotate(5deg);-moz-transform:rotate(5deg);position:relative;right:5px}.polaroid_container div:nth-child(8n) .polaroid{position:relative;top:8px;right:5px}.polaroid_container div:nth-child(11n) .polaroid{position:relative;top:3px;left:-5}.modal-body figure{float:left;width:200px;text-align:center}.modal-body figure img{width:180px}.modal-body .modal_bio{font-size:0.85em !important}.modal-body .url{width:100%;display:block;margin-top:20px}#chi_siamo .second-row{margin-left:0px;margin-top:20px}#press{padding-bottom:50px}#press h1{font-size:2.25em}#press .partner{border-radius:50%;text-align:center;width:200px;height:200px;background-color:#fff;min-height:170px;margin:20px 0 20px 0;white-space:nowrap;-webkit-transition:-webkit-transform 0.15s linear;-moz-transition:-moz-transform 0.15s linear;transition:transform 0.15s linear;-webkit-box-shadow:0 3px 6px rgba(0,0,0,0.25);-moz-box-shadow:0 3px 6px rgba(0,0,0,0.25);box-shadow:0 3px 6px rgba(0,0,0,0.25)}#press .partner img{margin-top:10%}#press .partner:hover{-webkit-transform:scale(1.2);-moz-transform:scale(1.2);transform:scale(1.2);-webkit-box-shadow:0 3px 6px rgba(0,0,0,0.5);-moz-box-shadow:0 3px 6px rgba(0,0,0,0.5);box-shadow:0 3px 6px rgba(0,0,0,0.5)}#press .press-txt h1{font-family:"Nexa Bold",serif;font-size:1.5em}.btn-primary{border:5px solid #000;background-color:#fff;color:#000;font-size:1.125em;font-family:"Nexa Bold",serif;margin-top:30px;padding:15px}.btn-primary:hover{border:5px solid #000;background-color:#000;color:#fff;font-size:1.125em;font-family:"Nexa Bold",serif;margin-top:30px;padding:15px}#contatti{border-top:1px solid #ccc;border-bottom:1px solid #ccc}#contatti h1{font-size:2.25em}#contatti article{width:50%;margin:0 auto;font-size:1em}#contatti article h1{font-family:"Nexa Bold",serif;font-size:1.5em}#contatti article .thumb-video{margin-bottom:50px}#contatti article ul{list-style:none;margin-top:30px}#contatti article ul li{display:inline}
+body, html {
+  width: 100%;
+  height: 100%;
+  background: #fff; }
+
+@font-face {
+  font-family: "Nexa Light";
+  src: url("../fonts/NexaLight.otf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+@font-face {
+  font-family: "Nexa Bold";
+  src: url("../fonts/NexaBold.otf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+@perpetua {
+  font-family: "Perpetua Titling MT";
+  src: url("../fonts/PerpetuaTitlingMT.otf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+body {
+  font-family: "Nexa Light", serif;
+  font-size: 16px; }
+
+.bold {
+  font-family: "Nexa Bold", serif;
+  font-size: 1.5em; }
+
+.text-paper {
+  font-size: 0.85em; }
+
+.block-image h1 {
+  text-align: center; }
+
+.bold {
+  font-family: "Nexa Bold", serif;
+  font-size: medium; }
+
+.justify {
+  text-align: justify; }
+
+.right-text {
+  text-align: right; }
+
+.uppercase {
+  text-transform: uppercase; }
+
+.hidden {
+  display: none;
+  visibility: hidden; }
+
+.orange {
+  background-color: #ef9f64; }
+
+.orange-text {
+  color: #ef9f64; }
+
+.white-text {
+  color: #fff; }
+
+.pink-text {
+  color: #e794ae; }
+
+.pink {
+  background-color: #e794ae; }
+
+.violet {
+  background-color: #8086a0; }
+
+.violet-text {
+  color: #8086a0; }
+
+.white {
+  background-color: #fff; }
+
+.white-text {
+  color: #fff; }
+
+.blue-dark {
+  background-color: #15212D; }
+
+.blue-dark-text {
+  color: #15212D; }
+
+.dark-grey {
+  background-color: #666; }
+
+.dark-grey-text {
+  background-color: #666; }
+
+.light-blue {
+  background-color: #9fd8e0; }
+
+.light-blue-text {
+  color: #9fd8e0; }
+
+.green {
+  background-color: #a7b96f; }
+
+.green-text {
+  color: #a7b96f; }
+
+.light-grey {
+  background-color: #b9baba; }
+
+.light-grey-text {
+  color: #B9BABA; }
+
+.yellow {
+  background-color: #edd66c; }
+
+.yellow-text {
+  color: #edd66c; }
+
+@media (min-width: 767px) {
+  .navbar {
+    -webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+    -moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+    transition: background 0.5s ease-in-out, padding 0.5s ease-in-out; }
+    .navbar .navbar-nav {
+      float: right;
+      margin-top: 10px; }
+
+  .navbar.navbar-inverse {
+    background-color: #F5F5F5 !important;
+    border: none; }
+
+  .top-nav-collapse {
+    padding: 0; }
+
+  #navbar span {
+    display: none;
+    visibility: hidden; } }
+.navbar-inverse .navbar-nav > .active > a {
+  background-color: #F5F5F5 !important; }
+
+.navbar {
+  height: 100px;
+  margin: 0px;
+  min-height: unset; }
+  .navbar .navbar-header h1 {
+    float: right;
+    font-size: 1.6em;
+    margin: 30px 0px 0px 30px; }
+  .navbar .navbar-header:hover h1, .navbar .navbar-header:hover #lang {
+    color: #9D9D9D !important; }
+  .navbar #lang {
+    text-align: center;
+    left: 100px;
+    position: relative;
+    top: -30px;
+    width: 60px; }
+    .navbar #lang a {
+      color: #9D9D9D !important; }
+      .navbar #lang a:hover {
+        color: #2C475C !important;
+        text-decoration: none;
+        font-weight: bold; }
+    .navbar #lang a.active {
+      color: #2C475C !important;
+      font-weight: bold !important; }
+  .navbar .navbar-brand {
+    margin-top: 5px;
+    float: left; }
+    .navbar .navbar-brand img {
+      width: 80px; }
+    .navbar .navbar-brand a:hover {
+      color: #9D9D9D !important; }
+  .navbar ul.nav li a {
+    padding: 25px;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: 50px 50px; }
+  .navbar #navbar {
+    height: 70px !important; }
+    .navbar #navbar li.active {
+      background-color: none !important; }
+    .navbar #navbar li.active .menu-teatro, .navbar #navbar li:hover .menu-teatro {
+      background-image: url(../images/menu/over/teatro.png); }
+    .navbar #navbar li.active .menu-filosofia, .navbar #navbar li:hover .menu-filosofia {
+      background-image: url(../images/menu/over/cosa-offriamo.png); }
+    .navbar #navbar li.active .menu-opera, .navbar #navbar li:hover .menu-opera {
+      background-image: url(../images/menu/over/la-stagione.png); }
+    .navbar #navbar li.active .menu-banker, .navbar #navbar li:hover .menu-banker {
+      background-image: url(../images/menu/over/the-banker.png); }
+    .navbar #navbar li.active .menu-crowd, .navbar #navbar li:hover .menu-crowd {
+      background-image: url(../images/menu/over/sostieni-teatro.png); }
+    .navbar #navbar li.active .menu-partners, .navbar #navbar li:hover .menu-partners {
+      background-image: url(../images/menu/over/chi-siamo.png); }
+    .navbar #navbar li.active .menu-press, .navbar #navbar li:hover .menu-press {
+      background-image: url(../images/menu/over/stampa.png); }
+    .navbar #navbar li.active .menu-contatti, .navbar #navbar li:hover .menu-contatti {
+      background-image: url(../images/menu/over/contatti.png); }
+  .navbar .menu-teatro {
+    background-image: url(../images/menu/teatro.png); }
+  .navbar .menu-teatro:hover {
+    background-image: url(../images/menu/over/teatro.png); }
+  .navbar .menu-filosofia {
+    background-image: url(../images/menu/cosa-offriamo.png); }
+  .navbar .menu-opera {
+    background-image: url(../images/menu/la-stagione.png); }
+  .navbar .menu-banker {
+    background-image: url(../images/menu/the-banker.png); }
+  .navbar .menu-crowd {
+    background-image: url(../images/menu/sostieni-teatro.png); }
+  .navbar .menu-partners {
+    background-image: url(../images/menu/chi-siamo.png); }
+  .navbar .menu-press {
+    background-image: url(../images/menu/stampa.png); }
+  .navbar .menu-contatti {
+    background-image: url(../images/menu/contatti.png); }
+  .navbar #menu-title {
+    text-align: right;
+    font-weight: bold;
+    text-transform: uppercase; }
+
+@media (max-width: 767px) {
+  .navbar .navbar-header h1 {
+    float: none;
+    font-size: 1.2em;
+    margin: none;
+    color: white; }
+  .navbar #lang {
+    text-align: center;
+    left: 100px;
+    position: relative;
+    top: -70px;
+    width: 60px; }
+  .navbar .navbar-brand {
+    margin-top: -5px;
+    float: none; }
+  .navbar img {
+    width: 80px;
+    vertical-align: middle;
+    float: left; }
+  .navbar ul.nav li a {
+    padding: 10px; }
+    .navbar ul.nav li a span {
+      padding-left: 15px; }
+  .navbar #navbar {
+    height: auto !important;
+    margin-top: -15px; }
+    .navbar #navbar span {
+      margin-left: 40px; }
+    .navbar #navbar li {
+      background-color: #222222; }
+      .navbar #navbar li a {
+        background-position: left; }
+    .navbar #navbar li.active a {
+      background-color: #222222 !important; }
+  .navbar #menu-title {
+    display: none;
+    visibility: hidden; } }
+@media (min-width: 768px) and (max-width: 991px) {
+  .navbar {
+    height: 100px;
+    margin: 0px;
+    min-height: unset; }
+    .navbar .navbar-header h1 {
+      float: right;
+      font-size: 0.8em; } }
+@media (min-width: 992px) and (max-width: 1200px) {
+  .navbar {
+    height: 100px;
+    margin: 0px;
+    min-height: unset; }
+    .navbar .navbar-header h1 {
+      float: right;
+      font-size: 1.6em; } }
+@media (min-width: 1200px) {
+  .navbar .navbar-header h1 {
+    float: right;
+    font-size: 2.5em; } }
+html, body {
+  height: 100%; }
+
+.container-fluid {
+  min-height: 100%;
+  height: 100%; }
+
+.img-responsive {
+  display: inline !important; }
+
+#teatro {
+  padding-top: 100px;
+  text-align: center;
+  width: 100%;
+  min-height: 100%;
+  display: block; }
+
+#filosofia {
+  padding-top: 100px;
+  text-align: center;
+  width: 100%;
+  min-height: 100%;
+  display: block; }
+
+#stagione {
+  padding-top: 100px;
+  text-align: center;
+  width: 100%;
+  min-height: 100%;
+  display: block; }
+
+#the_banker {
+  padding-top: 100px;
+  text-align: center;
+  width: 100%;
+  min-height: 100%;
+  display: block; }
+
+#player {
+  padding-top: 0px;
+  text-align: center;
+  width: 100%;
+  min-height: 100%;
+  display: block; }
+
+#contatti {
+  padding-top: 100px;
+  text-align: center;
+  width: 100%;
+  min-height: 100%;
+  display: block; }
+
+#press {
+  padding-top: 100px;
+  text-align: center;
+  width: 100%;
+  min-height: 100%;
+  display: block; }
+
+#sostieni {
+  padding-top: 100px;
+  text-align: center;
+  width: 100%;
+  min-height: 100%;
+  display: block; }
+
+#chi_siamo {
+  padding-top: 100px;
+  text-align: center;
+  width: 100%;
+  min-height: 100%;
+  display: block; }
+
+#press {
+  padding-top: 100px;
+  text-align: center;
+  width: 100%;
+  min-height: 100%;
+  display: block; }
+
+#cover {
+  text-align: center;
+  color: #fff;
+  background-attachment: scroll;
+  background-image: url(../images/header1.jpg);
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover; }
+  #cover h1 {
+    font-family: "Nexa Light", serif;
+    font-size: 2.5em;
+    text-align: left; }
+  #cover figure img {
+    float: left;
+    width: 120px;
+    margin: 0px !important;
+    padding: 0px !important; }
+  #cover #scroll-down {
+    position: relative;
+    width: 100%;
+    height: 100%; }
+    #cover #scroll-down #scroll-down-link {
+      width: 150px;
+      position: absolute;
+      bottom: 210px;
+      right: 0px; }
+
+@media (max-width: 767px) {
+  #cover {
+    text-align: center;
+    color: #fff;
+    background-attachment: scroll;
+    background-image: url(../images/header1.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    max-height: 400px !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover; }
+    #cover h1 {
+      font-family: "Nexa Light", serif;
+      font-size: 1.8em;
+      text-align: left; }
+    #cover figure img {
+      float: left;
+      width: 90px;
+      margin: 0px !important;
+      padding: 0px !important; }
+    #cover #scroll-down-link {
+      width: 150px !important;
+      position: absolute !important;
+      top: 140px !important;
+      bottom: 0px !important;
+      right: -50px !important; } }
+#teatro .text-section {
+  font-size: 1em; }
+  #teatro .text-section h1 {
+    font-family: "Nexa Bold", serif;
+    font-size: 1.5em; }
+#teatro .img-teatro {
+  margin-bottom: 30px;
+  margin-top: 20px; }
+
+#filosofia .text-section {
+  font-size: 1em; }
+  #filosofia .text-section h1 {
+    font-family: "Nexa Bold", serif;
+    font-size: 1.5em; }
+#filosofia .con-sfondo {
+  background-attachment: scroll;
+  background-image: url("../images/filosofia.jpg");
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-top: 40px; }
+  #filosofia .con-sfondo h1 {
+    font-family: "Nexa Bold", serif;
+    font-size: 1.5em; }
+  #filosofia .con-sfondo .page1 {
+    padding-top: 40px; }
+  #filosofia .con-sfondo .page2 {
+    padding-top: 40px; }
+#filosofia .container-fogli {
+  margin: 0 auto; }
+  #filosofia .container-fogli .foglisx {
+    width: 583px;
+    height: 768px;
+    padding: 100px 30px 0px 130px;
+    background-attachment: scroll;
+    background-image: url("../images/foglisx.png");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: 583px 768px; }
+  #filosofia .container-fogli .foglidx {
+    width: 608px;
+    height: 709px;
+    padding: 110px 100px 0px 90px;
+    background-attachment: scroll;
+    background-image: url("../images/foglidx.png");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: 608px 709px; }
+
+@media (min-width: 1241px) {
+  #filosofia .container-fogli {
+    width: 1241px !important; } }
+@media (max-width: 1024px) {
+  #filosofia .con-sfondo {
+    background-image: url("../images/filosofia.jpg");
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px !important;
+    margin-top: 0px !important; }
+
+  .container-fogli {
+    width: auto !important;
+    margin: 0 auto; }
+    .container-fogli .foglisx {
+      width: 100% !important;
+      height: 100% !important;
+      background-image: none !important;
+      padding: 0px 15px !important; }
+    .container-fogli .foglidx {
+      width: 100% !important;
+      height: 100% !important;
+      background-image: none !important;
+      padding: 0px 15px !important; } }
+#stagione {
+  font-size: 1em; }
+  #stagione .calendar {
+    text-align: center; }
+    #stagione .calendar img {
+      width: 80%; }
+    #stagione .calendar p {
+      margin-top: 30px; }
+  #stagione .text-section {
+    width: 50%;
+    margin: 0 auto; }
+
+@media (max-width: 1024px) {
+  #stagione .calendar img {
+    width: 90%; } }
+#the_banker {
+  background-attachment: scroll;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 30px;
+  color: white;
+  text-align: center; }
+  #the_banker .credits {
+    margin-top: 0px;
+    line-height: 18px; }
+  #the_banker h2 {
+    font-family: "Perpetua Titling MT";
+    font-size: 1.5em;
+    margin-top: 10px;
+    line-height: 0px; }
+  #the_banker h1 {
+    font-family: "Perpetua Titling MT";
+    font-size: 4.5em;
+    line-height: 55px; }
+  #the_banker h3 {
+    font-family: "Perpetua Titling MT";
+    font-size: 1.2em;
+    line-height: 0px; }
+  #the_banker img {
+    margin-bottom: 30px; }
+
+@media(max-width:767px) {
+  #the_banker {
+    background-image: none; } }
+@media(min-width:768px) {
+  #the_banker {
+    background-image: url("../images/bg-banker.jpg"); } }
+#player .js-vide {
+  height: 0;
+  padding-top: 25px;
+  padding-bottom: 67.5%;
+  margin-bottom: 10px;
+  position: relative;
+  overflow: hidden; }
+#player .js-video.widescreen {
+  padding: 0px; }
+#player .js-video embed, #player .js-video iframe, #player .js-video object, #player .js-video video {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  min-height: 900px;
+  position: relative;
+  margin: 0px;
+  margin-bottom: -15px; }
+#player #player_frame {
+  width: 100%;
+  height: 100%; }
+
+#sostieni {
+  padding-bottom: 50px; }
+  #sostieni h1 {
+    font-size: 2.25em; }
+  #sostieni .text-section {
+    margin-top: 40px;
+    font-size: 1em; }
+    #sostieni .text-section h1 {
+      font-family: "Nexa Bold", serif;
+      font-size: 1.5em; }
+    #sostieni .text-section .thumb-video {
+      margin-bottom: 50px; }
+
+#chi_siamo h1 {
+  font-size: 2.25em;
+  color: white;
+  margin-bottom: 50px; }
+#chi_siamo h4 {
+  font-size: 0.7em;
+  margin: 0px !important; }
+#chi_siamo article {
+  margin: 0 auto;
+  font-size: 1.125em; }
+#chi_siamo .second-row {
+  margin-left: 200px;
+  margin-top: 20px; }
+
+.polaroid_container .col-md-3 {
+  min-height: 240px; }
+  .polaroid_container .col-md-3:hover {
+    cursor: pointer;
+    position: relative;
+    z-index: 5; }
+    .polaroid_container .col-md-3:hover .polaroid {
+      -webkit-transform: scale(1.5);
+      -moz-transform: scale(1.5);
+      transform: scale(1.5);
+      -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.5);
+      -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.5);
+      box-shadow: 0 3px 6px rgba(0, 0, 0, 0.5); }
+.polaroid_container .polaroid {
+  -webkit-transition: -webkit-transform 0.15s linear;
+  -moz-transition: -moz-transform 0.15s linear;
+  transition: transform 0.15s linear;
+  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+  -webkit-transform: rotate(-2deg);
+  -moz-transform: rotate(-2deg);
+  transform: rotate(-2deg);
+  background: #FFF none repeat scroll 0% 0%;
+  width: 150px;
+  padding: 10px 10px 15px; }
+  .polaroid_container .polaroid img {
+    width: 128px; }
+  .polaroid_container .polaroid h1 {
+    color: #333 !important;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Nexa Bold", serif;
+    font-size: 0.8em !important;
+    width: 128px;
+    margin: 0 !important;
+    margin-top: 10px !important;
+    height: auto; }
+.polaroid_container div:nth-child(even) .polaroid {
+  -webkit-transform: rotate(2deg);
+  -moz-transform: rotate(2deg); }
+.polaroid_container div:nth-child(3n) .polaroid {
+  -webkit-transform: none;
+  -moz-transform: none;
+  position: relative;
+  top: -5px; }
+.polaroid_container div:nth-child(5n) .polaroid {
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  position: relative;
+  right: 5px; }
+.polaroid_container div:nth-child(8n) .polaroid {
+  position: relative;
+  top: 8px;
+  right: 5px; }
+.polaroid_container div:nth-child(11n) .polaroid {
+  position: relative;
+  top: 3px;
+  left: -5; }
+
+.modal-body figure {
+  float: left;
+  width: 200px;
+  text-align: center; }
+  .modal-body figure img {
+    width: 180px; }
+.modal-body .modal_bio {
+  font-size: 0.85em !important; }
+.modal-body .url {
+  width: 100%;
+  display: block;
+  margin-top: 20px; }
+
+#chi_siamo .second-row {
+  margin-left: 0px;
+  margin-top: 20px; }
+
+#press {
+  padding-bottom: 50px; }
+  #press h1 {
+    font-size: 2.25em; }
+  #press .partner {
+    border-radius: 50%;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    min-height: 170px;
+    margin: 20px 0 20px 0;
+    white-space: nowrap;
+    -webkit-transition: -webkit-transform 0.15s linear;
+    -moz-transition: -moz-transform 0.15s linear;
+    transition: transform 0.15s linear;
+    -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25); }
+    #press .partner img {
+      margin-top: 10%; }
+    #press .partner:hover {
+      -webkit-transform: scale(1.2);
+      -moz-transform: scale(1.2);
+      transform: scale(1.2);
+      -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.5);
+      -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.5);
+      box-shadow: 0 3px 6px rgba(0, 0, 0, 0.5); }
+  #press .press-txt h1 {
+    font-family: "Nexa Bold", serif;
+    font-size: 1.5em; }
+
+#press .partner {
+  margin: 0 auto;
+  margin-top: 20px; }
+
+.btn-primary {
+  border: 5px solid black;
+  background-color: white;
+  color: black;
+  font-size: 1.125em;
+  font-family: "Nexa Bold", serif;
+  margin-top: 30px;
+  padding: 15px; }
+
+.btn-primary:hover {
+  border: 5px solid black;
+  background-color: black;
+  color: white;
+  font-size: 1.125em;
+  font-family: "Nexa Bold", serif;
+  margin-top: 30px;
+  padding: 15px; }
+
+#contatti {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc; }
+  #contatti h1 {
+    font-size: 2.25em; }
+  #contatti article {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1em; }
+    #contatti article h1 {
+      font-family: "Nexa Bold", serif;
+      font-size: 1.5em; }
+    #contatti article .thumb-video {
+      margin-bottom: 50px; }
+    #contatti article ul {
+      list-style: none;
+      margin-top: 30px;
+      padding: 0px; }
+      #contatti article ul li {
+        display: inline; }
