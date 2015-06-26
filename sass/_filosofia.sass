@@ -22,7 +22,6 @@
     .page2
       padding-top: 40px
   .container-fogli
-    width: 1241px !important
     margin: 0 auto
     .foglisx
       width: 583px
@@ -42,3 +41,29 @@
       background-position: center top
       background-repeat: no-repeat
       background-size: 608px 709px
+
+@media (min-width: 1241px)
+  #filosofia
+    .container-fogli
+      width: 1241px !important
+
+@media (max-width: 767px)
+  #filosofia
+    .con-sfondo
+      background-image: url('../images/filosofia.jpg')
+      background-position: center bottom
+      background-repeat: no-repeat
+      background-size: cover
+  .container-fogli
+    width: auto !important
+    margin: 0 auto
+    .foglisx
+      width: 100% !important
+      height: 100% !important
+      background-image: none !important
+      padding: 0px 15px !important
+    .foglidx
+      width: 100% !important
+      height: 100% !important
+      background-image: none !important
+      padding: 0px 15px !important
