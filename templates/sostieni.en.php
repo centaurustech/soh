@@ -21,7 +21,7 @@
         <div class='row'>
             <div class='col-md-12'>
                 <article>
-                    <iframe style="width: 300px; height: 365px;border:none;" src="http://www.produzionidalbasso.com/projects/8384/widget" scrolling="no"></iframe>
+                    <iframe style="width: 300px; height: 365px;border:none;" src="http://www.produzionidalbasso.com/projects/8384/widget" scrolling="no"></iframe><iframe style="width: 219px; height: 365px;border:none;" src="http://www.produzionidalbasso.com/projects/8404/widget" scrolling="no"></iframe>
                 </article>
             </div>
         </div>
