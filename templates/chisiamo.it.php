@@ -13,8 +13,8 @@
                                 <h4>Founder / Composer</h4>
                                 <p class="bio" style="display: none;">
                                      <strong>Alberto Cara</strong>, nasce a Tivoli (Italia) nel 1975. Attualmente risiede a Genova (Italia).<br />
-                                    Dopo il completamento delle scuole secondarie, perfeziona gli studi musicali ottenendo il diploma di pianoforte e composizione presso il Conservatorio di Milano e ottiene una laurea in Letteratura Italiana.<br />
-                                    Attualmente è attivo nella composizione di musica sinfonica, da camera e operistica.<br />
+                                    Dopo la Maturità si diploma in Pianoforte, in Composizione, e si laurea in Lettere.<br />
+                                    È autore di musica sinfonica, da camera, operistica.<br />
                                     Alcuni dei suoi lavori sono stati eseguiti in varie stagioni in Italian e all'estero. Fra queste: I Pomeriggi Musicali di Milano, l'Orchestra da Camera Fiorentina, l'Orchestra sinfonica di Sanremo, il Teatro dell'Opera Giocosa di Savona, il Brinkhall Summer Fest di Turku in Finlandia, il Festival Gaulianus di Gozo a Malta, la Società di concerti "G. Barattelli" de L'Aquila, la Rive Gauche di Torino, Rebus – Occhio al nuovo di Milano), l'International Saxophone Stage di Fermo.<br />
                                     Nel 2006, la sua opera per orchestra "Fabula", lancia importanti collaborazioni con i l'Orchestra dei Pomeriggi Musicali di Milano per la quale compone "Dell'orizzonte limpido" (2009), la "Sinfonia dell'Aria" (2013), per viola, contrabbasso, wind orchestra e percussioni, e "Il mio mattin brillò" (2013), per tromba e orchestra.<br />
                                     Nel 2007 compone "Il colore di Cenerentola", una fiaba metropolitana in quattro scene. L'opera, co-prodotta dal Teatro Regio di Torino e dal Teatro Comunale di Bologna, ha debuttato nella stagione 2007/2008 al Piccolo Regio Laboratorio di Torino e a L'altro Comunale di Bologna.<br />

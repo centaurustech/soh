@@ -11,8 +11,8 @@
                         <br><a href="mailto:info@socialoperahouse.org"> info@socialoperahouse.org.</a></p>
                     <p>Iscriviti alla nostra newsletter per rimanere sempre aggiornato sul nostro cartellone e sui nostri progetti!</p>
                     <ul>
-                        <li><a href="" target="_blank" title="THE SOCIAL OPERA HOUSE Facebook Page"><img src="images/socialicons/facebook.png"></a></li>
-                        <li><a href="" target="_blank" title="THE SOCIAL OPERA HOUSE Twitter Page"><img src="images/socialicons/twitter.png"></a></li>
+                        <li><a href="https://www.facebook.com/thesocialoperahouse" target="_blank" title="THE SOCIAL OPERA HOUSE Facebook Page"><img src="images/socialicons/facebook.png"></a></li>
+                        <li><a href="https://twitter.com/soh_opera" target="_blank" title="THE SOCIAL OPERA HOUSE Twitter Page"><img src="images/socialicons/twitter.png"></a></li>
                     </ul>
                 </article>
             </div>

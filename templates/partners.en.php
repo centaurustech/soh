@@ -55,7 +55,7 @@
             </div>
         </div>
         <div class="row press-txt">
-            <h1>Press-room...<h1>
+            <h1>Press-room...</h1>
             <p>
                 Click below to read our press release.
             </p>

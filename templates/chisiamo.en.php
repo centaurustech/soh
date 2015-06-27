@@ -3,7 +3,7 @@
     <div class="container-fluid">
         <div class='row'>
             <div class='col-md-12'>
-                <h1>CHI SIAMO</h1>
+                <h1>WHO ARE WE</h1>
                 <div class="container polaroid_container">
                     <div class='row'>
                         <div class='col-md-3 col-sm-6 col-xs-12'>

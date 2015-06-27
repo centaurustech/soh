@@ -12,10 +12,10 @@
                 </p>
             </div>
             <div class="col-md-4 col-xs-12 text-section">
-                <h1>L'intuizione</h1>
+                <h1>The Intuition</h1>
                 <p class="justify">
                     It is said that theatre (from the Greek verb “theáomai”, “to watch”) only exists insofar as someone watches and someone is watched. In practice, theatre is the connection between the public and the actor.<br />
-                    Likewise, Internet and the new technologies offer to each one of us a continuous connection. Nowadays we are all always connected and co-present in a virtual place, where the enlarged and global Web community can meet whenever and wherever wants.
+                    Likewise, Internet and the new technologies offer each one of us a continuous connection. Nowadays we are all always connected and co-present in a virtual place, where the enlarged and global Web community can meet whenever and wherever.
                 </p>
             </div>
             <div class="col-md-2 hidden-xs"></div>
@@ -28,7 +28,7 @@
                 <article>
                     <h1>The Challenge: Theatre in Another Reality</h1>
                     <p>
-                        We asked ourselves: does theatre really only exist when an actor and his public physically meet in the same place? Couldn’t we take this ancient form of entertainment to a new stage? Couldn’t we make a 2.0 version, in a constant exchange between the two realities the contemporary man lives in, the physical and the virtual ones?
+                        We asked ourselves: does theatre really only exist when an actor and his audience physically meet in the same place? Couldn’t we take this ancient form of entertainment to a new stage? Couldn’t we make a 2.0 version, in a constant exchange between the two realities the contemporary man lives in, the physical and the virtual one?
                     </p>
                 </article>
             </div>

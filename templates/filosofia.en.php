@@ -16,7 +16,7 @@
                 <h1>New Forms</h1>
                 <p class="justify">
                     New technologies, particularly the Web, are often used as a marketing resource to promote personal activities, but rarely they serve as a medium for artistic creation.<br />
-                    Scenography and 3D virtual theatrical architectures, live streaming public in front of the actor and capable of influencing him with its presence and its reactions, crowdsourcing, Wiki technology and 2.0 Web applied to the writing process and to direction, seriality applied to the theatrical narration… All these are only few of the methods, which we could use in search for innovative forms of a renewed level of interaction between the actor and the public.
+                    Scenography and 3D virtual theatrical architectures, live streaming public, capable of influencing the actor in front of them with its presence and its reactions, crowdsourcing, Wiki technology and 2.0 Web applied to the writing process and to direction, seriality applied to the theatrical narration… All these are only few of the methods which we could use in search for innovative forms of a renewed level of interaction between the actor and the public.
                 </p>
             </div>
             <div class="col-md-2 hidden-xs"></div>
@@ -33,7 +33,7 @@
                 <div class='col-xs-12 foglidx'>
                     <h1>A Cyberpunk Theatre?</h1>
                     <p class="justify">
-                        Not necessarily. Undoubtedly these new operas will reflect and analyse modern and contemporary society, with a particular eye on consequences that technological progress has on all of us. Having said that, even a revisited classical piece is welcomed to our project. What matters is that the subject or the means through which is narrated reflect the connection between the contemporary man and new technologies.
+                        Not necessarily. Undoubtedly these new operas will reflect and analyse modern and contemporary society, with a particular eye on consequences that technological progress has on all of us. Having said that, even a revisited classical piece is welcome to our project. What matters is that the subject or the means narration reflect the connection between the contemporary man and new technologies.
                     </p>
                     <br />
                     <p>If you want to know more about the phylosophy of our theatre, download our "Handbook of instructions for a proper use of The Social Opera House and The Streaming Theatre".</p>
