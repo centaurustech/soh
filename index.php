@@ -72,8 +72,7 @@ if(!in_array($lang, array('it', 'en', 'IT', 'EN'))){
         <script src="./components/jquery/dist/jquery.min.js"></script>
         <script src="./components/bootstrap/dist/js/bootstrap.min.js"></script>
         <script src="./components/jquery-easing-original/jquery.easing.min.js"></script>
-        <script src="./script/scrolling-nav.js"></script>
-        <script src="./script/chisiamo.js"></script>
+        <script src="./script/scripts.js"></script>
         <script>
             (function (i, s, o, g, r, a, m) {
                 i['GoogleAnalyticsObject'] = r;
