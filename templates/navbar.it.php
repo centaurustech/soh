@@ -16,8 +16,8 @@
                 <h1>THE SOCIAL OPERA HOUSE</h1>
             </div>
             <div id="lang">
-                <a href="?lang=en" class="active">EN</a> |
-                <a href="?lang=it" class="">IT</a>
+                <a href="?lang=en" class="">EN</a> |
+                <a href="?lang=it" class="active">IT</a>
             </div>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
