@@ -23,7 +23,6 @@ $date   = new DateTime();
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="">
         <meta name="author" content="SOCIAL OPERA HOUSE">
         <?php include_once "./templates/keywords.$lang.php"; ?>
         <link rel="icon" href="./favicon.ico">
@@ -45,13 +44,6 @@ $date   = new DateTime();
         <?php include_once "./templates/filosofia.$lang.php"; ?>
         <?php include_once "./templates/stagione.$lang.php"; ?>
         <?php include_once "./templates/thebanker.$lang.php"; ?>
-        <?php if ($date > new DateTime("2015-06-28 20:45:00")): ?>
-            <section id="player" style="display: none;">
-                <div class="js-video vimeo widescreen">
-                    <iframe src="https://player.vimeo.com/video/131900848" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-                </div>
-            </section>
-        <?php endif; ?>
         <?php include_once "./templates/sostieni.$lang.php"; ?>
         <?php include_once "./templates/chisiamo.$lang.php"; ?>
         <?php include_once "./templates/partners.$lang.php"; ?>

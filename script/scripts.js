@@ -1,15 +1,15 @@
 var currentItem={title:"Il Teatro",color:"orange-text"};$(document).ready(function(){$("#menu-title").html(currentItem.title).addClass(currentItem.color).hide();var t=$(".navbar").offset().top;$(window).scroll(function(){var e=$(window).scrollTop();e>=t?($(".navbar").addClass("navbar-fixed-top"),$(".section").each(function(t){if(Math.floor($(this).offset().top)<=e+100){$("#navbar li.active").removeClass("active");var r=$("#navbar ul li").eq(t);currentItem.title=r.find("a").attr("title"),currentItem.color=r.find("a").data("color"),r.addClass("active"),$("#menu-title").removeClass().addClass(currentItem.color).html(currentItem.title).show()}})):($(".navbar").removeClass("navbar-fixed-top"),$("#navbar li.active").removeClass("active"),$("#menu-title").removeClass().addClass(currentItem.color).html(currentItem.title).hide())}),$("body").on("click touchstart","#scroll-down-link",function(t){var e=$(".menu-teatro"),r=$("#teatro"),a=r.offset();currentItem.title=e.attr("title"),currentItem.color=e.data("color"),$("#menu-title").removeClass().addClass(currentItem.color).html(currentItem.title).show(),$("html, body").animate({scrollTop:a.top-100},1e3,"easeInOutExpo"),t.preventDefault()}),$(".navbar .navbar-nav li>a").bind({click:function(t){var e=$(this).attr("href"),r=$(e).offset();currentItem.title=$(this).attr("title"),currentItem.color=$(this).data("color"),$("#menu-title").removeClass().addClass(currentItem.color).html(currentItem.title).show(),$("html, body").animate({scrollTop:r.top},1e3,"easeInOutExpo"),t.preventDefault()},touchstart:function(t){var e=$(this).attr("href"),r=$(e).offset();currentItem.title=$(this).attr("title"),currentItem.color=$(this).data("color"),$("#menu-title").removeClass().addClass(currentItem.color).html(currentItem.title).show(),$("html, body").animate({scrollTop:r.top},1e3,"easeInOutExpo"),t.preventDefault()},mouseenter:function(){var t=$(this).attr("title"),e=$(this).data("color");$("#menu-title").removeClass().addClass(e).html(t).show()},mouseleave:function(){$("#menu-title").removeClass().addClass(currentItem.color).html(currentItem.title).hide()}}),$(".navbar-nav").on("click touchstart",function(){"none"!=$(".navbar-header .navbar-toggle").css("display")&&$(".navbar-header .navbar-toggle").trigger("click")})}),$(document).ready(function(){$("body").on("click touchstart",".polaroid",function(){var t=$(this).find("h1").html(),e=$(this).find(".bio").html(),r=$(this).find("img").attr("src"),a=$(this).find("h4").html();$(".modal-title .name").html(t),$(".modal-title .role").html(" - "+a),$(".modal-body figure img").attr("src",r),$(".modal-body .modal_bio").html(e),$("#modal").modal("show")})});
-$(document).ready(function(){
-    $('#player').hide();
-    timeout();
-});
-function timeout() {
-    var due = new Date(2015,05,28,20,59);
-    setTimeout(function () {
-        now = new Date();
-        if(now >= due) {
-            $('#player').fadeIn().show();
-        }
-        timeout();
-    }, 1000);
-}
+//$(document).ready(function(){
+//    $('#player').hide();
+//    timeout();
+//});
+//function timeout() {
+//    var due = new Date(2015,05,28,20,59);
+//    setTimeout(function () {
+//        now = new Date();
+//        if(now >= due) {
+//            $('#player').fadeIn().show();
+//        }
+//        timeout();
+//    }, 1000);
+//}

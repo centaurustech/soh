@@ -15,6 +15,7 @@ if (isset($_GET['lang'])) {
 if(!in_array($lang, array('it', 'en', 'IT', 'EN'))){
     $lang = 'en';
 }
+$date   = new DateTime();
 ?>
 <!DOCTYPE html>
 <html lang="<?php echo $lang; ?>">
@@ -22,8 +23,8 @@ if(!in_array($lang, array('it', 'en', 'IT', 'EN'))){
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="">
-        <meta name="author" content="">
+        <meta name="author" content="SOCIAL OPERA HOUSE">
+        <?php include_once "./templates/keywords.$lang.php"; ?>
         <link rel="icon" href="./favicon.ico">
         <title>Social Opera House</title>
         <!-- Bootstrap core CSS -->
@@ -45,7 +46,7 @@ if(!in_array($lang, array('it', 'en', 'IT', 'EN'))){
         <?php include_once "./templates/thebanker.$lang.php"; ?>
         <section id="player">
             <div class="js-video vimeo widescreen">
-                <iframe src="https://player.vimeo.com/video/131900848" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                <iframe src="https://player.vimeo.com/video/131900848" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
             </div>
         </section>
         <?php include_once "./templates/sostieni.$lang.php"; ?>
@@ -74,6 +75,7 @@ if(!in_array($lang, array('it', 'en', 'IT', 'EN'))){
                 </div>
             </div>
         </div>
+        <div data-date="<?php echo $date->format("d/m/Y H:i:s"); ?>"></div>
         <script src="./components/jquery/dist/jquery.min.js"></script>
         <script src="./components/bootstrap/dist/js/bootstrap.min.js"></script>
         <script src="./components/jquery-easing-original/jquery.easing.min.js"></script>

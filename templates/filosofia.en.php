@@ -37,7 +37,7 @@
                     </p>
                     <br />
                     <p>If you want to know more about the phylosophy of our theatre, download our "Handbook of instructions for a proper use of The Social Opera House and The Streaming Theatre".</p>
-                    <a href="files/SocialOperaHouse_it.pdf" target="_blank" class="btn btn-large btn-primary">DOWNLOAD</a>
+                    <a href="files/SocialOperaHouse_en.pdf" target="_blank" class="btn btn-large btn-primary">DOWNLOAD</a>
                 </div>
             </div>
         </div>
