@@ -25,7 +25,7 @@ $date   = new DateTime();
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="author" content="SOCIAL OPERA HOUSE">
         <?php include_once "./templates/keywords.$lang.php"; ?>
-        <link rel="icon" href="./favicon.ico">
+        <link rel="icon" href="favicon.ico">
         <title>Social Opera House</title>
         <!-- Bootstrap core CSS -->
         <link href="./components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -71,9 +71,11 @@ $date   = new DateTime();
             </div>
         </div>
         <div data-date="<?php echo $date->format("d/m/Y H:i:s"); ?>"></div>
+        <?php include_once "./templates/cookie.$lang.php"; ?>
         <script src="./components/jquery/dist/jquery.min.js"></script>
         <script src="./components/bootstrap/dist/js/bootstrap.min.js"></script>
         <script src="./components/jquery-easing-original/jquery.easing.min.js"></script>
+        <script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
         <script src="./script/scripts.js"></script>
         <script>
             (function (i, s, o, g, r, a, m) {
