@@ -44,6 +44,11 @@ $date   = new DateTime();
         <?php include_once "./templates/filosofia.$lang.php"; ?>
         <?php include_once "./templates/stagione.$lang.php"; ?>
         <?php include_once "./templates/thebanker.$lang.php"; ?>
+        <section id="player">
+            <div class="js-video vimeo widescreen">
+                <iframe src="https://player.vimeo.com/video/131900848" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+        </section>
         <?php include_once "./templates/sostieni.$lang.php"; ?>
         <?php include_once "./templates/chisiamo.$lang.php"; ?>
         <?php include_once "./templates/partners.$lang.php"; ?>
