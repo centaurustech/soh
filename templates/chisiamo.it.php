@@ -67,9 +67,9 @@
                             <article class="polaroid">
                                 <img src="images/chisiamo/davide_montorio.png">
                                 <h1>Davide Montorio</h1>
-                                <h4>Web Developer / Producer</h4>
+                                <h4>Developer / Producer</h4>
                                 <p class="bio" style="display: none;">
-                                    <strong>Davide Montorio</strong> è senior developer presso la società SkipsoLabs, per la quale dirige lo sviluppo di applicazioni e piattaforme web di contest e crowdsourcing. Sin dai suoi primi anni di formazione è stato un grande appassionato di tecnologie web e informatiche e nel tempo ha guadagnato grande esperienza del campo lavorando come web developer per uno dei più grandi media group italiani. Davide ha una laurea in ingegneria informatica e un master in ingegneria del suono presso il Politecnico di Milano. In passato è stato bassista per diverse band italiane totalizzando più di 200 concerti in Italia e all'estero. Ama viaggiare in lungo e in largo fra realtà fisica e realtà virtuale: attualmente vive fra Milano, Barcellona e il World Wide Web...
+                                    <strong>Davide Montorio</strong> è Senior Developer presso la società SkipsoLabs, per la quale dirige lo sviluppo di applicazioni e piattaforme web di contest e crowdsourcing. Sin dai suoi primi anni di formazione è stato un grande appassionato di tecnologie web e informatiche e nel tempo ha guadagnato grande esperienza del campo lavorando come web developer per uno dei più grandi media group italiani. Davide ha una laurea in ingegneria informatica e un master in ingegneria del suono presso il Politecnico di Milano. In passato è stato bassista per diverse band italiane totalizzando più di 200 concerti in Italia e all'estero. Ama viaggiare in lungo e in largo fra realtà fisica e realtà virtuale: attualmente vive fra Milano, Barcellona e il World Wide Web...
                                     <span class="url"><a href="https://uk.linkedin.com/pub/davide-montorio/37/642/223" target="_blank">Linkedin Profile</a></span>
                                 </p>
                             </article>

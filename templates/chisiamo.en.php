@@ -68,9 +68,9 @@
                             <article class="polaroid">
                                 <img src="images/chisiamo/davide_montorio.png">
                                 <h1>Davide Montorio</h1>
-                                <h4>Web Developer / Producer</h4>
+                                <h4>Developer / Producer</h4>
                                 <p class="bio" style="display: none;">
-                                    <strong>Davide Montorio</strong> is the senior developer at SkipsoLabs where he leads the development of the contest and crowdsourcing applications. He has been passionate about web technologies since his high-school years and has gained significant experience working as a web developer for one of Italy's largest media groups. Davide has a degree in Computer Science and a Master's Degree in Sound Engineering and Design from Politecnico di Milano - Italy. Davide is also a bass player, he toured Italy and Europe with his past band. Now, he's completely involved in developing the Skipso's crowdsourcing platform. He lives in Milan but he is always happy to move around the world.
+                                    <strong>Davide Montorio</strong> is the Senior Seveloper at SkipsoLabs where he leads the development of the contest and crowdsourcing applications. He has been passionate about web technologies since his high-school years and has gained significant experience working as a web developer for one of Italy's largest media groups. Davide has a degree in Computer Science and a Master's Degree in Sound Engineering and Design from Politecnico di Milano - Italy. Davide is also a bass player, he toured Italy and Europe with his past band. Now, he's completely involved in developing the Skipso's crowdsourcing platform. He lives in Milan but he is always happy to move around the world.
                                     <span class="url"><a href="https://uk.linkedin.com/pub/davide-montorio/37/642/223" target="_blank">Linkedin Profile</a></span>
                                 </p>
                             </article>

@@ -59,7 +59,7 @@
             <p>
                 Clicca qui sotto per leggere la nostra rassegna stampa.
             </p>
-            <a href="#" class="btn btn-large btn-primary">DOWNLOAD</a>
+            <a href="/files/TheSocialOperaHouse_PressRoom.pdf" target="_blank" class="btn btn-large btn-primary">DOWNLOAD</a>
         </div>
     </div>
 </section>
